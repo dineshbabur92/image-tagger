@@ -1,0 +1,49 @@
+.tag{
+    padding: 10px;
+    text-align: center;
+    font-size: 1em;
+    background-color: whitesmoke;
+    border-bottom: 1px solid lightgray;
+}
+
+/*.tags-holder{
+    border: 1px solid lightgray;
+}
+*/
+.tag:hover{
+    background-color: steelblue;
+    color: white;
+}
+
+.tag.selected{
+    background-color: steelblue;
+    color: white;
+}
+
+.image-holder{
+    height: 400px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+
+.image-holder img {
+}
+
+.submit-holder{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.submit-holder button{
+    width: 100%;
+}
+
+.add-tag{
+    width: 100%;
+    border-radius: 0px;
+}
