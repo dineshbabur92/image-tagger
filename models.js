@@ -3,7 +3,7 @@ var _ = require("underscore");
 
 module.exports = function(wagner){
 	console.log(process.env["MONGO_DB_URL"]);
-	mongoose.connect("mongodb://localhost/revlon", { "useMongoClient": true });
+	mongoose.connect("mongodb://54.166.103.128/revlon_data", { "useMongoClient": true });
 	wagner.factory("db", function(){	
 		return mongoose;
 	});

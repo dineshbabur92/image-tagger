@@ -1,34 +1,89 @@
-<div class="row" class="doc-container" *ngIf="doc">
-	<div class="col-md-12">
-
-		<div class="row">
-			<div class="col-md-8 col-md-offset-2 image-holder">
-				<img [src]="doc.image_url" alt="image to be tagged">
-			</div>
-			<div class="col-md-4 tags-holder">
-				<div class="tag" [ngClass]="{'selected': isUserdefinedTag(tag) ? true : false}" *ngFor="let tag of doc.predefined_tags" (click)="toggleTag(tag)">
-					<span *ngIf="isUserdefinedTag(tag)" class="glyphicon glyphicon-ok" aria-hidden="true"></span> {{tag}}
-				</div>
-				<div class="tag" [ngClass]="{'selected': isUserdefinedTag(tag) ? true : false}" *ngFor="let tag of newTags" (click)="toggleTag(tag)">
-					<span *ngIf="isUserdefinedTag(tag)" class="glyphicon glyphicon-ok" aria-hidden="true"></span> {{tag}}
-				</div>
-				<input *ngIf="isAddTag" placeholder="Tag here" class="form-control add-tag" [(ngModel)]="tagEntered" (keyup.enter)="addNewTag()"/>
-				<button class="btn btn-success add-tag" (click)="addTag()">
-					<span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
-				</button>
+<!-- <div class="master-holder"> -->
+	<div class="row" *ngIf="errorMessage">
+		<div class="col-md-10 col-md-offset-1">
+			<div class="alert alert-danger" role="alert">
+				<p class="info-title">Unsuccessful save, reason: {{errorMessage}}</p>
+				<p>Ignore, and proceed with the below image!</p>
 			</div>
 		</div>
+	</div>
 
-		<div class="row submit-holder">
-			<div class="col-md-6 col-md-offset-3">
-				<button class="btn btn-primary" (click)="saveDoc()">Submit!</button>
+	<div class="row" *ngIf="error">
+		<div class="col-md-10 col-md-offset-1">
+			<div class="alert alert-danger" role="alert">
+				<p class="info-title">Unsuccessful save, reason: {{error}}</p>
+				<p>Report to the developer with a snapshot, if this issue persists!</p>
 			</div>
 		</div>
+	</div>
 
+	<div class="row" *ngIf="lastSavedDoc">
+		<div class="col-md-10 col-md-offset-1">
+			<div class="alert alert-success" role="alert">
+				<div class="row">
+					<div class="col-md-3">
+						<img class="saved-img" [src]="lastSavedDoc['image_url']">
+					</div>
+					<div class="col-md-9">
+						<p class="info-title">Successfully saved. Id: {{lastSavedDoc['_id']}}.</p>
+						<p>Tags: {{lastSavedDoc['userdefined_tags'].join(', ')}}</p>
+						<p>Revert back to developer with the id, in case you need to edit!</p>
+					</div>
+				</div>
+			</div>
+		</div>
 	</div>
-</div>
-<div class="row" *ngIf="noMoreImages">
-	<div class="col-md-6 col-md-offset-3">
-		<div class="alert alert-danger" role="alert">No more images to tag !!!</div>
+
+	<div class="row" class="doc-container" *ngIf="doc">
+		<div class="col-md-12">
+
+			<div class="row">
+				<div class="col-md-8 col-md-offset-1 image-holder">
+					<img [src]="doc.image_url" alt="image to be tagged">
+				</div>
+				<div class="col-md-2 tags-holder">
+					<div class="tag" [ngClass]="{'selected': isUserdefinedTag(tag) ? true : false}" *ngFor="let tag of doc.predefined_tags" (click)="toggleTag(tag)">
+						<span *ngIf="isUserdefinedTag(tag)" class="glyphicon glyphicon-ok" aria-hidden="true"></span> {{tag}}
+					</div>
+				</div>
+				<div class="col-md-3 tags-holder">
+					<div class="tag" [ngClass]="{'selected': isUserdefinedTag(tag) ? true : false}" *ngFor="let tag of newTags" (click)="toggleTag(tag)">
+						<span *ngIf="isUserdefinedTag(tag)" class="glyphicon glyphicon-ok" aria-hidden="true"></span> {{tag}}
+					</div>
+					<!-- <div class="row" *ngIf="isAddTag" >
+						<input class="col-md-8" placeholder="Tag here" class="form-control add-tag" [(ngModel)]="tagEntered" (keyup.enter)="addNewTag()"/>
+						<span class="col-md-2 glyphicon glyphicon-ok" aria-hidden="true"></span>
+						<span class="col-md-2 glyphicon glyphicon-remove" aria-hidden="true"></span>
+					</div> -->
+					<div class="input-group add-tag" *ngIf="isAddTag">
+					  <input type="text" class="form-control" aria-label="..." [(ngModel)]="tagEntered" (keyup.enter)="addNewTag()">
+					  <div class="input-group-btn">
+					    <button class="btn btn-success" (click)="addNewTag()">
+								<span class="glyphicon glyphicon-ok" aria-hidden="true" ></span>
+							</button>
+							<button class="btn btn-danger" (click)="cancelNewTag()">
+								<span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
+							</button>
+					  </div>
+					</div>
+					<button class="btn btn-default add-tag" (click)="addTag()">
+						<span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
+						Add New tag!
+					</button>
+				</div>
+			</div>
+
+			<div class="row submit-holder">
+				<div class="col-md-6 col-md-offset-3">
+					<button class="btn btn-primary" (click)="saveDoc()">Submit!</button>
+				</div>
+			</div>
+
+		</div>
 	</div>
-</div>
+	<div class="row" *ngIf="noMoreImages">
+		<div class="col-md-8 col-md-offset-2">
+			<div class="alert alert-danger" role="alert">No more images to tag !!!</div>
+		</div>
+	</div>
+<!-- </div> -->

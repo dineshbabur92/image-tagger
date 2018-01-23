@@ -17,11 +17,27 @@ export class ImageViewComponent implements OnInit {
 	tagEntered: string = null;
 	isAddTag: boolean = false;
 	newTags: string[] = []; 
+	error: string;
+	errorMessage: string;
+	lastSavedDoc: Object;
+	tagAdditionFailed: string;
  
 	constructor(private httpClient: HttpClient, 
 		private router: Router,
 		private route: ActivatedRoute){
 
+	}
+
+	resetView(){
+		this.noMoreImages = false;
+		this.userdefined_tag = [];
+		this.tagEntered = null;
+		this.isAddTag = false;
+		this.newTags = []; 
+		this.error = undefined;
+		this.errorMessage = undefined;
+		this.lastSavedDoc = undefined;
+		this.tagAdditionFailed = undefined;
 	}
 
 	ngOnInit(){
@@ -30,16 +46,21 @@ export class ImageViewComponent implements OnInit {
 			console.log("with in, ", this.collection);
 			this.httpClient.get("http://localhost:8080/"+ this.collection).subscribe((result: Object) => {
 				console.log(result);
+				this.resetView();
+				if(result["error"]){
+					this.error = result["error"];
+					this.errorMessage = result["message"];
+				}
 				if(!result["doc"]){
 					this.noMoreImages = true;
 					this.doc = null;
 				}
 				else{
 					this.doc = result["doc"];
-					this.noMoreImages = false;
 				}
 			});
 		});
+
 	}
 
 	toggleTag(tag){
@@ -65,13 +86,26 @@ export class ImageViewComponent implements OnInit {
 	saveDoc(){
 			this.httpClient.post("http://localhost:8080/"+ this.collection, { doc: this.doc } ).subscribe((result: Object) => {
 				console.log(result);
+				this.resetView();
+				if(result["error"]){
+					this.error = result["error"];
+				}
+				if(result["message"]){
+					this.errorMessage = result["message"];
+				}
+				if(!result["saved_doc"] && !this.errorMessage){
+					this.errorMessage = 
+						"Unknown";
+				}
+				if(result["saved_doc"]){
+					this.lastSavedDoc = result["saved_doc"];
+				}
 				if(!result["doc"]){
 					this.noMoreImages = true;
 					this.doc = null;
 				}
 				else{
 					this.doc = result["doc"];
-					this.noMoreImages = false;
 				}
 			});
 	}
@@ -81,8 +115,17 @@ export class ImageViewComponent implements OnInit {
 	}
 
 	addNewTag(){
+		if(this.newTags.indexOf(this.tagEntered)>=0 || !this.tagEntered || this.tagEntered == ""){
+			return;
+			// this.tagAdditionFailed = "Tag already added!";
+		}
 		this.newTags.push(this.tagEntered);
 		this.toggleTag(this.tagEntered);
+		this.isAddTag = false;
+		this.tagEntered = null;
+	}
+
+	cancelNewTag(){
 		this.isAddTag = false;
 		this.tagEntered = null;
 	}
