@@ -44,7 +44,7 @@ export class ImageViewComponent implements OnInit {
 		this.route.params.subscribe((params: Params)=>{
 			this.collection = params["collection"];
 			console.log("with in, ", this.collection);
-			this.httpClient.get("http://localhost:8080/"+ this.collection).subscribe((result: Object) => {
+			this.httpClient.get("/" + this.collection).subscribe((result: Object) => {
 				console.log(result);
 				this.resetView();
 				if(result["error"]){
@@ -84,7 +84,7 @@ export class ImageViewComponent implements OnInit {
 	}
 
 	saveDoc(){
-			this.httpClient.post("http://localhost:8080/"+ this.collection, { doc: this.doc } ).subscribe((result: Object) => {
+			this.httpClient.post("/" + this.collection, { doc: this.doc } ).subscribe((result: Object) => {
 				console.log(result);
 				this.resetView();
 				if(result["error"]){

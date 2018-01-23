@@ -1,1 +1,33 @@
-/* You can add global styles to this file, and also import other style files */
+.background{
+	height: 100vh;
+	background-image: url("./assets/images/background.png");
+	width: 100%;
+	z-index: -2;
+	position: fixed;
+	filter: blur(15px);
+}
+
+.foreground{
+	height: 100vh;
+	width: 100%;
+	z-index: -1;
+	position: fixed;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 30px;
+	font-family: Arnoldboecklin, fantasy;
+	color: whitesmoke;
+}
+
+.foreground .container-mine{
+	text-align: center;
+	background-color: black;
+	opacity: .3;
+	padding: 50px 300px;
+	border-radius: 10px;
+}
+
+.brand-title{
+	font-size: 100px;
+}
