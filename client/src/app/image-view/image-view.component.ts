@@ -21,6 +21,7 @@ export class ImageViewComponent implements OnInit {
 	errorMessage: string;
 	lastSavedDoc: Object;
 	tagAdditionFailed: string;
+	noOtherSubmit: boolean = false;
  
 	constructor(private httpClient: HttpClient, 
 		private router: Router,
@@ -41,6 +42,7 @@ export class ImageViewComponent implements OnInit {
 	}
 
 	ngOnInit(){
+		this.noOtherSubmit = true;
 		this.route.params.subscribe((params: Params)=>{
 			this.collection = params["collection"];
 			console.log("with in, ", this.collection);
@@ -58,6 +60,7 @@ export class ImageViewComponent implements OnInit {
 				else{
 					this.doc = result["doc"];
 				}
+				this.noOtherSubmit = false;
 			});
 		});
 
@@ -84,6 +87,7 @@ export class ImageViewComponent implements OnInit {
 	}
 
 	saveDoc(){
+			this.noOtherSubmit = true;
 			this.httpClient.post("/" + this.collection, { doc: this.doc } ).subscribe((result: Object) => {
 				console.log(result);
 				this.resetView();
@@ -107,6 +111,7 @@ export class ImageViewComponent implements OnInit {
 				else{
 					this.doc = result["doc"];
 				}
+				this.noOtherSubmit = false;
 			});
 	}
 
