@@ -39,7 +39,7 @@
 
 			<div class="row">
 				<div class="col-md-8 col-md-offset-1 image-holder">
-					<img [src]="doc.image_url" alt="image to be tagged">
+					<img class="loading" [src]="doc.image_url" alt="image to be tagged">
 				</div>
 				<div class="col-md-2 tags-holder">
 					<div class="tag" [ngClass]="{'selected': isUserdefinedTag(tag) ? true : false}" *ngFor="let tag of doc.predefined_tags" (click)="toggleTag(tag)">

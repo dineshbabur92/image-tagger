@@ -76,3 +76,7 @@ p{
 .info-title{
     font-weight: bold;
 }
+
+.loading{
+  background: transparent url('/client/dist/assets/images/loading.gif') center no-repeat;
+}

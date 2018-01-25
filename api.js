@@ -12,12 +12,12 @@ module.exports = function(wagner){
         // logThisToFile("logThisToFile called");
         return wagner.invoke(function(winston_logger){
             // logThisToFile("inside logThisToFile invoke");
-            return winston_logger.log({level: "info", message: message}); 
+            return winston_logger.log({level: "info", "timestamp": (new Date().toString()), message: message}); 
         });
     }
     
-    logThisToFile("logging this to file");
-    logThisToFile("LOG THIS");
+    logThisToFile("~~~~~~~~~~~~~~~~~~LOGGING STARTS HERE~~~~~~~~~~~~~~~~~~");
+    // logThisToFile("LOG THIS");
 
     api.use(function(req, res, next) {
       res.header("Access-Control-Allow-Origin", "*");
@@ -35,9 +35,10 @@ module.exports = function(wagner){
             // logThisToFile("==========================================================");
             logThisToFile("==========================================================");
             logThisToFile("getting for collection: " + collection);
-            console.log(db);
+            // console.log(db);
             db.models[collection].find({status: 0}).count().exec(function (err, count) {
                 // Get a random entry
+                console.log("error and count, ", err, count);
                 logThisToFile("number of records remaining, " + JSON.stringify(count));
                 var random = Math.floor(Math.random() * count)
                 logThisToFile("skipping these many records randomly, " + JSON.stringify(random));

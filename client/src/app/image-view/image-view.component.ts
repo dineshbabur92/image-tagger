@@ -90,6 +90,7 @@ export class ImageViewComponent implements OnInit {
 			this.noOtherSubmit = true;
 			this.httpClient.post("/" + this.collection, { doc: this.doc } ).subscribe((result: Object) => {
 				console.log(result);
+				this.doc = null
 				this.resetView();
 				if(result["error"]){
 					this.error = result["error"];
@@ -109,7 +110,10 @@ export class ImageViewComponent implements OnInit {
 					this.doc = null;
 				}
 				else{
-					this.doc = result["doc"];
+					this.doc = null;
+					setTimeout(()=>{
+						this.doc = result["doc"];
+					}, 100)
 				}
 				this.noOtherSubmit = false;
 			});

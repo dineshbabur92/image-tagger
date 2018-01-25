@@ -1,0 +1,70 @@
+{"level":"info","timestamp":"Thu Jan 25 2018 14:32:57 GMT+0530 (India Standard Time)","message":"~~~~~~~~~~~~~~~~~~LOGGING STARTS HERE~~~~~~~~~~~~~~~~~~"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:33:05 GMT+0530 (India Standard Time)","message":"~~~~~~~~~~~~~~~~~~LOGGING STARTS HERE~~~~~~~~~~~~~~~~~~"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"getting for collection: styles.441ed4745639572b9661.bundle.css"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"getting for collection: inline.e6d3e5938272b64f4366.bundle.js"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"getting for collection: polyfills.f20484b2fa4642e0dca8.bundle.js"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"getting for collection: main.ed301b97cc97de3aca3e.bundle.js"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"getting for collection: styles.441ed4745639572b9661.bundle.css"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"getting for collection: inline.e6d3e5938272b64f4366.bundle.js"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"getting for collection: polyfills.f20484b2fa4642e0dca8.bundle.js"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"getting for collection: main.ed301b97cc97de3aca3e.bundle.js"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:33:55 GMT+0530 (India Standard Time)","message":"~~~~~~~~~~~~~~~~~~LOGGING STARTS HERE~~~~~~~~~~~~~~~~~~"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:02 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:02 GMT+0530 (India Standard Time)","message":"getting for collection: nail"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:02 GMT+0530 (India Standard Time)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:02 GMT+0530 (India Standard Time)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:02 GMT+0530 (India Standard Time)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:02 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:04 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:04 GMT+0530 (India Standard Time)","message":"getting for collection: skin"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:04 GMT+0530 (India Standard Time)","message":"number of records remaining, 1520"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:04 GMT+0530 (India Standard Time)","message":"skipping these many records randomly, 851"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:04 GMT+0530 (India Standard Time)","message":"doc being sent: {\"_id\":\"5a65d383d344d6d1d19768e9\",\"index\":867,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25038060_1548956511808595_7187073280988151808_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"no person\",\"business\",\"isolated\",\"paper\",\"one\",\"tube\",\"currency\",\"health\",\"isolate\",\"milk\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:04 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:07 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:07 GMT+0530 (India Standard Time)","message":"getting for collection: tools"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:07 GMT+0530 (India Standard Time)","message":"number of records remaining, 738"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:07 GMT+0530 (India Standard Time)","message":"skipping these many records randomly, 404"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:07 GMT+0530 (India Standard Time)","message":"doc being sent: {\"_id\":\"5a65d2f2d344d6d1d1973d89\",\"index\":440,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/e35/c0.76.608.608/20837344_128069847814435_3216477613287538688_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"business\",\"finance\",\"currency\",\"wealth\",\"vertical\",\"pay\",\"savings\",\"paper\",\"illustration\",\"economy\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:07 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:12 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:12 GMT+0530 (India Standard Time)","message":"posting for collection: \"tools\""}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:12 GMT+0530 (India Standard Time)","message":"doc to be posted, {\"_id\":\"5a65d2f2d344d6d1d1973d89\",\"index\":440,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/e35/c0.76.608.608/20837344_128069847814435_3216477613287538688_n.jpg\",\"status\":0,\"userdefined_tags\":[\"business\",\"currency\",\"illustration\"],\"predefined_tags\":[\"business\",\"finance\",\"currency\",\"wealth\",\"vertical\",\"pay\",\"savings\",\"paper\",\"illustration\",\"economy\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:12 GMT+0530 (India Standard Time)","message":"userdefined_tags, [\"business\",\"currency\",\"illustration\"]"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:13 GMT+0530 (India Standard Time)","message":"number of records remaining, "}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:13 GMT+0530 (India Standard Time)","message":"skipping these many records randomly, "}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:13 GMT+0530 (India Standard Time)","message":"doc being sent: "}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:13 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:16 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:16 GMT+0530 (India Standard Time)","message":"posting for collection: \"tools\""}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:16 GMT+0530 (India Standard Time)","message":"doc to be posted, {\"_id\":\"5a65d2f2d344d6d1d1973e2f\",\"index\":609,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.96.1080.1080/18808912_786354668190384_1420868618530324480_n.jpg\",\"status\":0,\"userdefined_tags\":[\"isolated\",\"woman\",\"long\"],\"predefined_tags\":[\"woman\",\"isolated\",\"hairdo\",\"hair\",\"crinkled\",\"long\",\"straight\",\"fashion\",\"haircut\",\"curl\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:16 GMT+0530 (India Standard Time)","message":"userdefined_tags, [\"isolated\",\"woman\",\"long\"]"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:16 GMT+0530 (India Standard Time)","message":"number of records remaining, "}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:16 GMT+0530 (India Standard Time)","message":"skipping these many records randomly, "}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:17 GMT+0530 (India Standard Time)","message":"doc being sent: "}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:17 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:21 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:21 GMT+0530 (India Standard Time)","message":"posting for collection: \"tools\""}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:21 GMT+0530 (India Standard Time)","message":"doc to be posted, {\"_id\":\"5a65d2f2d344d6d1d1973ef6\",\"index\":806,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/e15/26288505_392696857810934_4206195136650018816_n.jpg\",\"status\":0,\"userdefined_tags\":[\"asdfsadf\"],\"predefined_tags\":[\"woman\",\"hand\",\"no person\",\"health\",\"medicine\",\"one\",\"treatment\",\"luxury\",\"indoors\",\"jewelry\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:21 GMT+0530 (India Standard Time)","message":"userdefined_tags, [\"asdfsadf\"]"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:22 GMT+0530 (India Standard Time)","message":"number of records remaining, "}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:22 GMT+0530 (India Standard Time)","message":"skipping these many records randomly, "}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:22 GMT+0530 (India Standard Time)","message":"doc being sent: "}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:22 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:25 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:25 GMT+0530 (India Standard Time)","message":"posting for collection: \"tools\""}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:25 GMT+0530 (India Standard Time)","message":"doc to be posted, {\"_id\":\"5a65d2f2d344d6d1d1973e53\",\"index\":643,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/c116.0.450.450/18513008_1666772020297595_2131555718833111040_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"flower\",\"fragility\",\"vertical\",\"still life\",\"freshness\",\"bouquet\",\"flora\",\"gift\",\"horizontal\",\"nature\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:25 GMT+0530 (India Standard Time)","message":"userdefined_tags, []"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:25 GMT+0530 (India Standard Time)","message":"No user-defined tags"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:25 GMT+0530 (India Standard Time)","message":"number of records remaining, 735"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:25 GMT+0530 (India Standard Time)","message":"skipping these many records randomly, 347"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:26 GMT+0530 (India Standard Time)","message":"doc being sent: {\"_id\":\"5a65d2f2d344d6d1d1973d4b\",\"index\":379,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21827343_1668787949822544_4600152970380705792_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"business\",\"paper\",\"no person\",\"indoors\",\"wood\",\"vertical\",\"identity\",\"family\",\"contemporary\",\"document\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 14:34:26 GMT+0530 (India Standard Time)","message":"=========================================================="}
