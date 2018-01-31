@@ -1,0 +1,1354 @@
+mongodb://localhost:27017/revlon_data
+info: ~~~~~~~~~~~~~~~~~~LOGGING STARTS HERE~~~~~~~~~~~~~~~~~~ {"timestamp":"Thu Jan 25 2018 11:09:18 GMT+0000 (UTC)"}
+app listening in 8080!
+[0mGET / [36m304 [0m3.115 ms - -[0m
+[0mGET /client/dist/styles.441ed4745639572b9661.bundle.css [36m304 [0m0.989 ms - -[0m
+[0mGET /client/dist/inline.e6d3e5938272b64f4366.bundle.js [36m304 [0m0.806 ms - -[0m
+[0mGET /client/dist/polyfills.f20484b2fa4642e0dca8.bundle.js [36m304 [0m0.168 ms - -[0m
+[0mGET /client/dist/main.ed301b97cc97de3aca3e.bundle.js [36m304 [0m0.162 ms - -[0m
+[0mGET /client/dist/assets/images/background.png [36m304 [0m0.240 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:09:44 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:09:44 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m2.122 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:09:46 GMT+0000 (UTC)"}
+info: getting for collection: eyes {"timestamp":"Thu Jan 25 2018 11:09:46 GMT+0000 (UTC)"}
+(node:31500) DeprecationWarning: Mongoose: mpromise (mongoose's default promise library) is deprecated, plug in your own promise library instead: http://mongoosejs.com/docs/promises.html
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:09:46 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:09:46 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.538 ms - -[0m
+error and count,  null 3316
+info: number of records remaining, 3316 {"timestamp":"Thu Jan 25 2018 11:09:46 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 708 {"timestamp":"Thu Jan 25 2018 11:09:46 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9ddb08f79cbe65f98a1","index":707,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18879552_1672690466373992_9018924154681819136_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["woman","portrait","one","girl","fashion","facial expression","sexy","adult","pretty","nude"]} {"timestamp":"Thu Jan 25 2018 11:09:46 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:09:46 GMT+0000 (UTC)"}
+[0mGET /eyes [32m200 [0m16.430 ms - 345[0m
+[0mGET /client/dist/glyphicons-halflings-regular.448c34a56d699c29117a.woff2 [36m304 [0m0.471 ms - -[0m
+[0mGET /client/dist/assets/images/loading.gif [36m304 [0m0.490 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:09:48 GMT+0000 (UTC)"}
+info: getting for collection: tools {"timestamp":"Thu Jan 25 2018 11:09:48 GMT+0000 (UTC)"}
+error and count,  null 807
+info: number of records remaining, 807 {"timestamp":"Thu Jan 25 2018 11:09:48 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 566 {"timestamp":"Thu Jan 25 2018 11:09:48 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:09:48 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:09:48 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m1.261 ms - -[0m
+info: doc being sent: {"_id":"5a69b9d4b08f79cbe65f94e7","index":568,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/17266143_1770758079908189_8129622597332631552_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["fashion","woman","glamour","girl","portrait","model","beautiful","hairdo","hair","sexy"]} {"timestamp":"Thu Jan 25 2018 11:09:48 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:09:48 GMT+0000 (UTC)"}
+[0mGET /tools [32m200 [0m5.592 ms - 358[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:09:49 GMT+0000 (UTC)"}
+info: getting for collection: face {"timestamp":"Thu Jan 25 2018 11:09:49 GMT+0000 (UTC)"}
+error and count,  null 1003
+info: number of records remaining, 1003 {"timestamp":"Thu Jan 25 2018 11:09:49 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 600 {"timestamp":"Thu Jan 25 2018 11:09:49 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9e2b08f79cbe65fa531","index":601,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19932413_246673222497882_7287486429502898176_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["woman","girl","fashion","portrait","sexy","pretty","model","beautiful","glamour","young"]} {"timestamp":"Thu Jan 25 2018 11:09:49 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:09:49 GMT+0000 (UTC)"}
+[0mGET /face [32m200 [0m3.529 ms - 341[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:09:49 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:09:49 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.411 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:09:50 GMT+0000 (UTC)"}
+info: getting for collection: hair {"timestamp":"Thu Jan 25 2018 11:09:50 GMT+0000 (UTC)"}
+error and count,  null 2445
+info: number of records remaining, 2445 {"timestamp":"Thu Jan 25 2018 11:09:50 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 176 {"timestamp":"Thu Jan 25 2018 11:09:50 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9e9b08f79cbe65fa77a","index":179,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/16464494_246691965774373_1494615882767269888_n.jpg?ig_cache_key=MTQ0ODcyMTE4MzY5MjI1NzM5Ng%3D%3D.2","status":0,"userdefined_tags":[],"predefined_tags":["indoors","woman","horizontal","people","paper","vertical","fashion","child","no person","healthcare"]} {"timestamp":"Thu Jan 25 2018 11:09:50 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:09:50 GMT+0000 (UTC)"}
+[0mGET /hair [32m200 [0m3.816 ms - 401[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:09:50 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:09:50 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.381 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:09:51 GMT+0000 (UTC)"}
+info: getting for collection: lips {"timestamp":"Thu Jan 25 2018 11:09:51 GMT+0000 (UTC)"}
+error and count,  null 997
+info: number of records remaining, 997 {"timestamp":"Thu Jan 25 2018 11:09:51 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 947 {"timestamp":"Thu Jan 25 2018 11:09:51 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9eeb08f79cbe65fb411","index":948,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/e15/21294838_145322929396474_344443625381298176_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["portrait","fashion","people","face","adult","model","beautiful","glamour","young","woman"]} {"timestamp":"Thu Jan 25 2018 11:09:51 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:09:51 GMT+0000 (UTC)"}
+[0mGET /lips [32m200 [0m3.583 ms - 334[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:09:51 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:09:51 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m1.188 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:09:52 GMT+0000 (UTC)"}
+info: getting for collection: nail {"timestamp":"Thu Jan 25 2018 11:09:52 GMT+0000 (UTC)"}
+error and count,  null 2073
+info: number of records remaining, 2073 {"timestamp":"Thu Jan 25 2018 11:09:52 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 1128 {"timestamp":"Thu Jan 25 2018 11:09:52 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69ba36b08f79cbe65fb8b1","index":1131,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23098579_285541435268074_9063235074576613376_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["woman","indoors","business","people","treatment","relaxation","wood","fashion","foot","luxury"]} {"timestamp":"Thu Jan 25 2018 11:09:52 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:09:52 GMT+0000 (UTC)"}
+[0mGET /nail [32m200 [0m3.785 ms - 348[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:09:52 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:09:52 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.393 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:09:53 GMT+0000 (UTC)"}
+info: getting for collection: skin {"timestamp":"Thu Jan 25 2018 11:09:53 GMT+0000 (UTC)"}
+error and count,  null 1539
+info: number of records remaining, 1539 {"timestamp":"Thu Jan 25 2018 11:09:53 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 409 {"timestamp":"Thu Jan 25 2018 11:09:53 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69ba3cb08f79cbe65fbe01","index":410,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25037746_214423809101350_976521863410745344_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["relaxation","indoors","horizontal","treatment","health","woman","massage","adult","child","people"]} {"timestamp":"Thu Jan 25 2018 11:09:53 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:09:53 GMT+0000 (UTC)"}
+[0mGET /skin [32m200 [0m3.389 ms - 350[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:09:53 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:09:53 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.401 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:14:43 GMT+0000 (UTC)"}
+info: getting for collection: nail {"timestamp":"Thu Jan 25 2018 11:14:43 GMT+0000 (UTC)"}
+error and count,  null 2073
+info: number of records remaining, 2073 {"timestamp":"Thu Jan 25 2018 11:14:43 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 56 {"timestamp":"Thu Jan 25 2018 11:14:43 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69ba36b08f79cbe65fb480","index":58,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/16230247_1572051812824599_3326563762592284672_n.jpg?ig_cache_key=MTQ0ODcxMjI0MjQ4NDExMzM5NA%3D%3D.2","status":0,"userdefined_tags":[],"predefined_tags":["woman","care","treatment","hand","manicure","fingernail","horizontal","addiction","pain","health"]} {"timestamp":"Thu Jan 25 2018 11:14:43 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:14:43 GMT+0000 (UTC)"}
+[0mGET /nail [32m200 [0m3.236 ms - 398[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:14:43 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:14:43 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.439 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:14:45 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:14:45 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.530 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:14:45 GMT+0000 (UTC)"}
+info: getting for collection: lips {"timestamp":"Thu Jan 25 2018 11:14:45 GMT+0000 (UTC)"}
+error and count,  null 997
+info: number of records remaining, 997 {"timestamp":"Thu Jan 25 2018 11:14:45 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 734 {"timestamp":"Thu Jan 25 2018 11:14:45 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9eeb08f79cbe65fb33c","index":737,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23098563_1834238546867208_8285638358101655552_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["girl","fashion","woman","beautiful","model","glamour","portrait","style","hair","sexy"]} {"timestamp":"Thu Jan 25 2018 11:14:45 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:14:45 GMT+0000 (UTC)"}
+[0mGET /lips [32m200 [0m3.133 ms - 340[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:14:46 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:14:46 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.549 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:14:46 GMT+0000 (UTC)"}
+info: getting for collection: eyes {"timestamp":"Thu Jan 25 2018 11:14:46 GMT+0000 (UTC)"}
+error and count,  null 3316
+info: number of records remaining, 3316 {"timestamp":"Thu Jan 25 2018 11:14:46 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 3149 {"timestamp":"Thu Jan 25 2018 11:14:46 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9ddb08f79cbe65fa22d","index":3152,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/15876718_1202887883098539_1663697350662553600_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["facial expression","portrait","woman","happiness","people","wear","red carpet","togetherness","love","affection"]} {"timestamp":"Thu Jan 25 2018 11:14:46 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:14:46 GMT+0000 (UTC)"}
+[0mGET /eyes [32m200 [0m4.543 ms - 360[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:14:48 GMT+0000 (UTC)"}
+info: getting for collection: tools {"timestamp":"Thu Jan 25 2018 11:14:48 GMT+0000 (UTC)"}
+error and count,  null 807
+info: number of records remaining, 807 {"timestamp":"Thu Jan 25 2018 11:14:48 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 221 {"timestamp":"Thu Jan 25 2018 11:14:48 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9d4b08f79cbe65f938e","index":215,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23421846_147842332632843_1954707081755885568_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["woman","girl","portrait","beautiful","young","face","person","people","adult","attractive"]} {"timestamp":"Thu Jan 25 2018 11:14:48 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:14:48 GMT+0000 (UTC)"}
+[0mGET /tools [32m200 [0m3.545 ms - 343[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:14:48 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:14:48 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.426 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:14:49 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:14:49 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.526 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:14:49 GMT+0000 (UTC)"}
+info: getting for collection: face {"timestamp":"Thu Jan 25 2018 11:14:49 GMT+0000 (UTC)"}
+error and count,  null 1003
+info: number of records remaining, 1003 {"timestamp":"Thu Jan 25 2018 11:14:49 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 374 {"timestamp":"Thu Jan 25 2018 11:14:49 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9e2b08f79cbe65fa44f","index":377,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/18096612_1627118213969196_5807312541772152832_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["woman","portrait","girl","people","eye","fashion","pretty","model","indoors","adult"]} {"timestamp":"Thu Jan 25 2018 11:14:49 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:14:49 GMT+0000 (UTC)"}
+[0mGET /face [32m200 [0m3.023 ms - 355[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:14:50 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:14:50 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.510 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:14:50 GMT+0000 (UTC)"}
+info: getting for collection: hair {"timestamp":"Thu Jan 25 2018 11:14:50 GMT+0000 (UTC)"}
+error and count,  null 2445
+info: number of records remaining, 2445 {"timestamp":"Thu Jan 25 2018 11:14:50 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 2086 {"timestamp":"Thu Jan 25 2018 11:14:50 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9e9b08f79cbe65faef2","index":2086,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/24845540_1970849253166413_8968873431902715904_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["woman","portrait","fashion","one","sexy","people","wear","glamour","adult","model"]} {"timestamp":"Thu Jan 25 2018 11:14:50 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:14:50 GMT+0000 (UTC)"}
+[0mGET /hair [32m200 [0m4.018 ms - 337[0m
+[0mGET / [36m304 [0m0.304 ms - -[0m
+[0mGET /client/dist/styles.441ed4745639572b9661.bundle.css [36m304 [0m0.240 ms - -[0m
+[0mGET /client/dist/inline.e6d3e5938272b64f4366.bundle.js [36m304 [0m0.199 ms - -[0m
+[0mGET /client/dist/polyfills.f20484b2fa4642e0dca8.bundle.js [36m304 [0m0.169 ms - -[0m
+[0mGET /client/dist/main.ed301b97cc97de3aca3e.bundle.js [36m304 [0m0.164 ms - -[0m
+[0mGET /client/dist/polyfills.f20484b2fa4642e0dca8.bundle.js [36m304 [0m0.213 ms - -[0m
+[0mGET /client/dist/main.ed301b97cc97de3aca3e.bundle.js [36m304 [0m0.178 ms - -[0m
+[0mGET /client/dist/inline.e6d3e5938272b64f4366.bundle.js [36m304 [0m0.197 ms - -[0m
+[0mGET /client/dist/assets/images/background.png [36m304 [0m0.232 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:14:59 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:14:59 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.549 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:15:08 GMT+0000 (UTC)"}
+info: getting for collection: eyes {"timestamp":"Thu Jan 25 2018 11:15:08 GMT+0000 (UTC)"}
+error and count,  null 3316
+info: number of records remaining, 3316 {"timestamp":"Thu Jan 25 2018 11:15:08 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 592 {"timestamp":"Thu Jan 25 2018 11:15:08 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9ddb08f79cbe65f982d","index":588,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18382592_290587974730010_8882953448664858624_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["fashion","woman","glamour","portrait","girl","model","eye","sexy","lips","hair"]} {"timestamp":"Thu Jan 25 2018 11:15:08 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:15:08 GMT+0000 (UTC)"}
+[0mGET /eyes [32m200 [0m3.892 ms - 332[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:15:08 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:15:08 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.480 ms - -[0m
+[0mGET /client/dist/assets/images/loading.gif [36m304 [0m0.202 ms - -[0m
+[0mGET /client/dist/glyphicons-halflings-regular.448c34a56d699c29117a.woff2 [36m304 [0m0.192 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:15:13 GMT+0000 (UTC)"}
+info: getting for collection: tools {"timestamp":"Thu Jan 25 2018 11:15:13 GMT+0000 (UTC)"}
+error and count,  null 807
+info: number of records remaining, 807 {"timestamp":"Thu Jan 25 2018 11:15:13 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 654 {"timestamp":"Thu Jan 25 2018 11:15:13 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:15:13 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:15:13 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.424 ms - -[0m
+info: doc being sent: {"_id":"5a69b9d4b08f79cbe65f953f","index":654,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18382539_1927726487506730_4267634892927401984_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["woman","fashion","portrait","pretty","sexy","eye","glamour","girl","model","hair"]} {"timestamp":"Thu Jan 25 2018 11:15:13 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:15:13 GMT+0000 (UTC)"}
+[0mGET /tools [32m200 [0m3.795 ms - 335[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:15:14 GMT+0000 (UTC)"}
+info: getting for collection: face {"timestamp":"Thu Jan 25 2018 11:15:14 GMT+0000 (UTC)"}
+error and count,  null 1003
+info: number of records remaining, 1003 {"timestamp":"Thu Jan 25 2018 11:15:14 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 463 {"timestamp":"Thu Jan 25 2018 11:15:14 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9e2b08f79cbe65fa4a8","index":458,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.103.1080.1080/18382570_1781553552175095_6664511744024510464_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["outdoors","nature","man","telephone","portrait","people","one","summer","young","outside"]} {"timestamp":"Thu Jan 25 2018 11:15:14 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:15:14 GMT+0000 (UTC)"}
+[0mGET /face [32m200 [0m2.919 ms - 360[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:15:14 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:15:14 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.372 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:15:16 GMT+0000 (UTC)"}
+info: getting for collection: hair {"timestamp":"Thu Jan 25 2018 11:15:16 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:15:16 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:15:16 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.414 ms - -[0m
+error and count,  null 2445
+info: number of records remaining, 2445 {"timestamp":"Thu Jan 25 2018 11:15:16 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 1684 {"timestamp":"Thu Jan 25 2018 11:15:16 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9e9b08f79cbe65fad5f","index":1686,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/e35/23099224_367666113690991_1401411218383568896_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["woman","fashion","skin","young","isolated","health","pretty","relaxation","eye","people"]} {"timestamp":"Thu Jan 25 2018 11:15:16 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:15:16 GMT+0000 (UTC)"}
+[0mGET /hair [32m200 [0m4.225 ms - 326[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:16:26 GMT+0000 (UTC)"}
+info: getting for collection: eyes {"timestamp":"Thu Jan 25 2018 11:16:26 GMT+0000 (UTC)"}
+error and count,  null 3316
+info: number of records remaining, 3316 {"timestamp":"Thu Jan 25 2018 11:16:26 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 2374 {"timestamp":"Thu Jan 25 2018 11:16:26 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9ddb08f79cbe65f9f25","index":2375,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.79.653.653/16583250_986439721456427_5735807306298294272_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["eyelash","girl","eyeball","mascara","woman","eyebrow","eyesight","glamour","vision","model"]} {"timestamp":"Thu Jan 25 2018 11:16:26 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:16:26 GMT+0000 (UTC)"}
+[0mGET /eyes [32m200 [0m6.284 ms - 359[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:16:26 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:16:26 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.404 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:16:27 GMT+0000 (UTC)"}
+info: getting for collection: tools {"timestamp":"Thu Jan 25 2018 11:16:27 GMT+0000 (UTC)"}
+error and count,  null 807
+info: number of records remaining, 807 {"timestamp":"Thu Jan 25 2018 11:16:27 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 636 {"timestamp":"Thu Jan 25 2018 11:16:27 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9d4b08f79cbe65f952d","index":638,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18581067_1043462335787401_3378234684474392576_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["woman","fashion","girl","people","business","indoors","adult","room","portrait","model"]} {"timestamp":"Thu Jan 25 2018 11:16:27 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:16:27 GMT+0000 (UTC)"}
+[0mGET /tools [32m200 [0m2.958 ms - 341[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:16:27 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:16:27 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.392 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:16:28 GMT+0000 (UTC)"}
+info: getting for collection: face {"timestamp":"Thu Jan 25 2018 11:16:28 GMT+0000 (UTC)"}
+error and count,  null 1003
+info: number of records remaining, 1003 {"timestamp":"Thu Jan 25 2018 11:16:28 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 315 {"timestamp":"Thu Jan 25 2018 11:16:28 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9e2b08f79cbe65fa414","index":318,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c135.0.810.810/17334137_1732679183709139_2299822053475221504_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["fashion","woman","pretty","portrait","glamour","girl","sexy","model","cute","eye"]} {"timestamp":"Thu Jan 25 2018 11:16:28 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:16:28 GMT+0000 (UTC)"}
+[0mGET /face [32m200 [0m2.750 ms - 350[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:16:28 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:16:28 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.420 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:16:32 GMT+0000 (UTC)"}
+info: getting for collection: hair {"timestamp":"Thu Jan 25 2018 11:16:32 GMT+0000 (UTC)"}
+error and count,  null 2445
+info: number of records remaining, 2445 {"timestamp":"Thu Jan 25 2018 11:16:32 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 677 {"timestamp":"Thu Jan 25 2018 11:16:32 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:16:32 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:16:32 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.431 ms - -[0m
+info: doc being sent: {"_id":"5a69b9e9b08f79cbe65fa96f","index":677,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/18443329_721504151392109_6887898752640614400_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["portrait","people","adult","facial expression","one","wear","woman","girl","blond","promotion"]} {"timestamp":"Thu Jan 25 2018 11:16:32 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:16:32 GMT+0000 (UTC)"}
+[0mGET /hair [32m200 [0m4.056 ms - 364[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:16:33 GMT+0000 (UTC)"}
+info: getting for collection: lips {"timestamp":"Thu Jan 25 2018 11:16:33 GMT+0000 (UTC)"}
+error and count,  null 997
+info: number of records remaining, 997 {"timestamp":"Thu Jan 25 2018 11:16:33 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 2 {"timestamp":"Thu Jan 25 2018 11:16:33 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9eeb08f79cbe65fb060","index":5,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/c0.75.599.599/17332710_355624874838549_389162180622155776_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["woman","fashion","pretty","summer","cute","lid","young","beautiful","glamour","portrait"]} {"timestamp":"Thu Jan 25 2018 11:16:33 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:16:33 GMT+0000 (UTC)"}
+[0mGET /lips [32m200 [0m2.773 ms - 345[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:16:33 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:16:33 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.408 ms - -[0m
+[0mGET /manager/html [33m404 [0m1.079 ms - 151[0m
+[0mGET / [36m304 [0m0.313 ms - -[0m
+[0mGET /client/dist/styles.441ed4745639572b9661.bundle.css [36m304 [0m0.231 ms - -[0m
+[0mGET /client/dist/inline.e6d3e5938272b64f4366.bundle.js [36m304 [0m0.229 ms - -[0m
+[0mGET /client/dist/polyfills.f20484b2fa4642e0dca8.bundle.js [36m304 [0m0.232 ms - -[0m
+[0mGET /client/dist/main.ed301b97cc97de3aca3e.bundle.js [36m304 [0m0.185 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:20 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:21:20 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [32m200 [0m0.532 ms - 12[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:20 GMT+0000 (UTC)"}
+info: getting for collection: lips {"timestamp":"Thu Jan 25 2018 11:21:20 GMT+0000 (UTC)"}
+error and count,  null 997
+info: number of records remaining, 997 {"timestamp":"Thu Jan 25 2018 11:21:20 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 694 {"timestamp":"Thu Jan 25 2018 11:21:20 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9eeb08f79cbe65fb314","index":695,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18444751_128658894445951_1025366056861958144_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["fashion","glamour","woman","lips","eye","sexy","lipstick","skin","elegant","luxury"]} {"timestamp":"Thu Jan 25 2018 11:21:20 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:20 GMT+0000 (UTC)"}
+[0mGET /lips [32m200 [0m2.824 ms - 336[0m
+[0mGET /client/dist/glyphicons-halflings-regular.448c34a56d699c29117a.woff2 [36m304 [0m0.226 ms - -[0m
+[0mGET /client/dist/assets/images/loading.gif [36m304 [0m0.174 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:23 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:21:23 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.624 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:23 GMT+0000 (UTC)"}
+info: getting for collection: tools {"timestamp":"Thu Jan 25 2018 11:21:23 GMT+0000 (UTC)"}
+error and count,  null 807
+info: number of records remaining, 807 {"timestamp":"Thu Jan 25 2018 11:21:23 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 355 {"timestamp":"Thu Jan 25 2018 11:21:23 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9d4b08f79cbe65f9414","index":357,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21827542_118098782208463_8485097197673644032_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["portrait","woman","people","girl","model","school","fashion","university","education","adult"]} {"timestamp":"Thu Jan 25 2018 11:21:23 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:23 GMT+0000 (UTC)"}
+[0mGET /tools [32m200 [0m2.746 ms - 346[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:25 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:21:25 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.517 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:25 GMT+0000 (UTC)"}
+info: getting for collection: face {"timestamp":"Thu Jan 25 2018 11:21:25 GMT+0000 (UTC)"}
+error and count,  null 1003
+info: number of records remaining, 1003 {"timestamp":"Thu Jan 25 2018 11:21:25 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 87 {"timestamp":"Thu Jan 25 2018 11:21:25 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9e2b08f79cbe65fa330","index":87,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.28.773.773/16110534_369252300107237_8950876505320194048_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["woman","portrait","fashion","nude","glamour","brunette","girl","skin","facial expression","model"]} {"timestamp":"Thu Jan 25 2018 11:21:25 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:25 GMT+0000 (UTC)"}
+[0mGET /face [32m200 [0m2.663 ms - 363[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:27 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:21:27 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.565 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:27 GMT+0000 (UTC)"}
+info: getting for collection: hair {"timestamp":"Thu Jan 25 2018 11:21:27 GMT+0000 (UTC)"}
+error and count,  null 2445
+info: number of records remaining, 2445 {"timestamp":"Thu Jan 25 2018 11:21:27 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 1329 {"timestamp":"Thu Jan 25 2018 11:21:27 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9e9b08f79cbe65fabfc","index":1329,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21879047_322758994801410_1586157840756637696_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["woman","adult","girl","people","business","portrait","fashion","one","model","beautiful"]} {"timestamp":"Thu Jan 25 2018 11:21:27 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:27 GMT+0000 (UTC)"}
+[0mGET /hair [32m200 [0m3.427 ms - 342[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:28 GMT+0000 (UTC)"}
+info: getting for collection: lips {"timestamp":"Thu Jan 25 2018 11:21:28 GMT+0000 (UTC)"}
+error and count,  null 997
+info: number of records remaining, 997 {"timestamp":"Thu Jan 25 2018 11:21:28 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 794 {"timestamp":"Thu Jan 25 2018 11:21:28 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9eeb08f79cbe65fb378","index":796,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/e15/22802110_898320856983937_3211678764723339264_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["indoors","adult","people","portrait","woman","contemplation","confidence","facial expression","horizontal","side view"]} {"timestamp":"Thu Jan 25 2018 11:21:29 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:29 GMT+0000 (UTC)"}
+[0mGET /lips [32m200 [0m3.318 ms - 364[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:29 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:21:29 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.403 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:30 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:21:30 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.574 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:30 GMT+0000 (UTC)"}
+info: getting for collection: nail {"timestamp":"Thu Jan 25 2018 11:21:30 GMT+0000 (UTC)"}
+error and count,  null 2073
+info: number of records remaining, 2073 {"timestamp":"Thu Jan 25 2018 11:21:30 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 591 {"timestamp":"Thu Jan 25 2018 11:21:30 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69ba36b08f79cbe65fb697","index":592,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/18809100_699893173526110_998308475861729280_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["fashion","woman","bracelet","jewelry","foot","hand","skin","manicure","luxury","love"]} {"timestamp":"Thu Jan 25 2018 11:21:30 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:30 GMT+0000 (UTC)"}
+[0mGET /nail [32m200 [0m3.055 ms - 354[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:33 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:21:33 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.513 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:33 GMT+0000 (UTC)"}
+info: getting for collection: skin {"timestamp":"Thu Jan 25 2018 11:21:33 GMT+0000 (UTC)"}
+error and count,  null 1539
+info: number of records remaining, 1539 {"timestamp":"Thu Jan 25 2018 11:21:33 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 591 {"timestamp":"Thu Jan 25 2018 11:21:33 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69ba3cb08f79cbe65fbeb7","index":592,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/e35/25038395_700734670122200_6538708033051033600_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["woman","outdoors","romance","love","groom","wedding","veil","people","two","togetherness"]} {"timestamp":"Thu Jan 25 2018 11:21:33 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:33 GMT+0000 (UTC)"}
+[0mGET /skin [32m200 [0m3.418 ms - 326[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:36 GMT+0000 (UTC)"}
+info: getting for collection: eyes {"timestamp":"Thu Jan 25 2018 11:21:36 GMT+0000 (UTC)"}
+error and count,  null 3316
+info: number of records remaining, 3316 {"timestamp":"Thu Jan 25 2018 11:21:36 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 2923 {"timestamp":"Thu Jan 25 2018 11:21:36 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9ddb08f79cbe65fa14a","index":2926,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19379314_1555341094528878_8396882928805609472_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["woman","fashion","glamour","eye","lips","sexy","skin","portrait","elegant","pretty"]} {"timestamp":"Thu Jan 25 2018 11:21:36 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:36 GMT+0000 (UTC)"}
+[0mGET /eyes [32m200 [0m4.592 ms - 338[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:36 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:21:36 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.421 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:38 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:21:38 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.528 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:38 GMT+0000 (UTC)"}
+info: getting for collection: tools {"timestamp":"Thu Jan 25 2018 11:21:38 GMT+0000 (UTC)"}
+error and count,  null 807
+info: number of records remaining, 807 {"timestamp":"Thu Jan 25 2018 11:21:38 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 226 {"timestamp":"Thu Jan 25 2018 11:21:38 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9d4b08f79cbe65f9393","index":227,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23347887_191293214775393_3994714700796395520_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["no person","contemporary","empty","indoors","family","room","furniture","paper","inside","interior design"]} {"timestamp":"Thu Jan 25 2018 11:21:38 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:38 GMT+0000 (UTC)"}
+[0mGET /tools [32m200 [0m2.612 ms - 359[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:41 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:21:41 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.535 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:41 GMT+0000 (UTC)"}
+info: getting for collection: face {"timestamp":"Thu Jan 25 2018 11:21:41 GMT+0000 (UTC)"}
+error and count,  null 1003
+info: number of records remaining, 1003 {"timestamp":"Thu Jan 25 2018 11:21:41 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 890 {"timestamp":"Thu Jan 25 2018 11:21:41 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9e2b08f79cbe65fa653","index":892,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23101170_353884595065177_8341579783146045440_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["woman","fashion","glamour","style","girl","portrait","lips","model","elegant","isolated"]} {"timestamp":"Thu Jan 25 2018 11:21:41 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:41 GMT+0000 (UTC)"}
+[0mGET /face [32m200 [0m2.765 ms - 341[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:42 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:21:42 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.575 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:42 GMT+0000 (UTC)"}
+info: getting for collection: hair {"timestamp":"Thu Jan 25 2018 11:21:42 GMT+0000 (UTC)"}
+error and count,  null 2445
+info: number of records remaining, 2445 {"timestamp":"Thu Jan 25 2018 11:21:42 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 442 {"timestamp":"Thu Jan 25 2018 11:21:42 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9e9b08f79cbe65fa884","index":445,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/c0.75.599.599/18095394_692791234178744_8908228777151037440_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["woman","people","indoors","adult","portrait","one","wear","family","facial expression","business"]} {"timestamp":"Thu Jan 25 2018 11:21:42 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:42 GMT+0000 (UTC)"}
+[0mGET /hair [32m200 [0m3.484 ms - 357[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:48 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:21:48 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.551 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:48 GMT+0000 (UTC)"}
+info: getting for collection: lips {"timestamp":"Thu Jan 25 2018 11:21:48 GMT+0000 (UTC)"}
+error and count,  null 997
+info: number of records remaining, 997 {"timestamp":"Thu Jan 25 2018 11:21:48 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 631 {"timestamp":"Thu Jan 25 2018 11:21:48 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9eeb08f79cbe65fb2d5","index":626,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21689919_272871123231856_3894111018942464000_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["woman","fashion","girl","people","portrait","stub","pretty","lips","model","sexy"]} {"timestamp":"Thu Jan 25 2018 11:21:48 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:48 GMT+0000 (UTC)"}
+[0mGET /lips [32m200 [0m2.900 ms - 334[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:50 GMT+0000 (UTC)"}
+info: getting for collection: hair {"timestamp":"Thu Jan 25 2018 11:21:50 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:50 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 11:21:50 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.415 ms - -[0m
+error and count,  null 2445
+info: number of records remaining, 2445 {"timestamp":"Thu Jan 25 2018 11:21:50 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 1652 {"timestamp":"Thu Jan 25 2018 11:21:50 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9e9b08f79cbe65fad3f","index":1651,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/22794034_549760575369504_927520585825648640_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["people","woman","wear","portrait","fashion","one","fur","blond","adult","dog"]} {"timestamp":"Thu Jan 25 2018 11:21:50 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 11:21:50 GMT+0000 (UTC)"}
+[0mGET /hair [32m200 [0m3.707 ms - 330[0m
+[0mGET / [36m304 [0m0.242 ms - -[0m
+[0mGET /client/dist/styles.441ed4745639572b9661.bundle.css [36m304 [0m0.228 ms - -[0m
+[0mGET /client/dist/inline.e6d3e5938272b64f4366.bundle.js [36m304 [0m0.188 ms - -[0m
+[0mGET /client/dist/main.ed301b97cc97de3aca3e.bundle.js [36m304 [0m0.635 ms - -[0m
+[0mGET /client/dist/polyfills.f20484b2fa4642e0dca8.bundle.js [36m304 [0m0.210 ms - -[0m
+[0mGET /client/dist/inline.e6d3e5938272b64f4366.bundle.js [36m304 [0m0.210 ms - -[0m
+[0mGET /client/dist/polyfills.f20484b2fa4642e0dca8.bundle.js [36m304 [0m0.150 ms - -[0m
+[0mGET /client/dist/main.ed301b97cc97de3aca3e.bundle.js [36m304 [0m0.137 ms - -[0m
+[0mGET /client/dist/assets/images/background.png [36m304 [0m0.182 ms - -[0m
+info: ========================================================== {"timestamp":"Thu Jan 25 2018 13:01:25 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Thu Jan 25 2018 13:01:25 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.465 ms - -[0m
+mongodb://localhost:27017/revlon_data
+info: ~~~~~~~~~~~~~~~~~~LOGGING STARTS HERE~~~~~~~~~~~~~~~~~~ {"timestamp":"Mon Jan 29 2018 14:57:19 GMT+0000 (UTC)"}
+app listening in 8080!
+[0mGET / [36m304 [0m3.095 ms - -[0m
+[0mGET /client/dist/styles.441ed4745639572b9661.bundle.css [36m304 [0m0.781 ms - -[0m
+[0mGET /client/dist/main.ed301b97cc97de3aca3e.bundle.js [36m304 [0m0.290 ms - -[0m
+[0mGET /client/dist/polyfills.f20484b2fa4642e0dca8.bundle.js [36m304 [0m0.358 ms - -[0m
+[0mGET /client/dist/inline.e6d3e5938272b64f4366.bundle.js [36m304 [0m0.372 ms - -[0m
+[0mGET /client/dist/assets/images/background.png [36m304 [0m0.241 ms - -[0m
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 14:57:29 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Mon Jan 29 2018 14:57:29 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m2.203 ms - -[0m
+[0mGET / [36m304 [0m0.387 ms - -[0m
+[0mGET /client/dist/main.ed301b97cc97de3aca3e.bundle.js [36m304 [0m0.269 ms - -[0m
+[0mGET /client/dist/styles.441ed4745639572b9661.bundle.css [36m304 [0m0.200 ms - -[0m
+[0mGET /client/dist/inline.e6d3e5938272b64f4366.bundle.js [36m304 [0m0.194 ms - -[0m
+[0mGET /client/dist/polyfills.f20484b2fa4642e0dca8.bundle.js [36m304 [0m0.173 ms - -[0m
+[0mGET /client/dist/assets/images/background.png [36m304 [0m0.223 ms - -[0m
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 14:57:32 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Mon Jan 29 2018 14:57:32 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.699 ms - -[0m
+[0mHEAD /manager/html [0m- [0m- ms - -[0m
+[0mGET / [32m200 [0m1.406 ms - 655[0m
+[0mGET /client/dist/styles.441ed4745639572b9661.bundle.css [32m200 [0m0.525 ms - 115637[0m
+[0mGET /client/dist/inline.e6d3e5938272b64f4366.bundle.js [32m200 [0m0.350 ms - 1445[0m
+[0mGET /client/dist/polyfills.f20484b2fa4642e0dca8.bundle.js [32m200 [0m0.307 ms - 59417[0m
+[0mGET /client/dist/main.ed301b97cc97de3aca3e.bundle.js [32m200 [0m0.266 ms - 327769[0m
+[0mGET /client/dist/assets/images/background.png [32m200 [0m0.371 ms - 3581850[0m
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 19:37:28 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Mon Jan 29 2018 19:37:28 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.562 ms - -[0m
+[0mGET / [36m304 [0m0.297 ms - -[0m
+[0mGET /client/dist/styles.441ed4745639572b9661.bundle.css [36m304 [0m0.232 ms - -[0m
+[0mGET /client/dist/inline.e6d3e5938272b64f4366.bundle.js [36m304 [0m0.567 ms - -[0m
+[0mGET /client/dist/polyfills.f20484b2fa4642e0dca8.bundle.js [36m304 [0m0.554 ms - -[0m
+[0mGET /client/dist/main.ed301b97cc97de3aca3e.bundle.js [36m304 [0m0.532 ms - -[0m
+[0mGET /client/dist/assets/images/background.png [36m304 [0m0.237 ms - -[0m
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 19:37:38 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Mon Jan 29 2018 19:37:38 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.530 ms - -[0m
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 19:37:44 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Mon Jan 29 2018 19:37:44 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.565 ms - -[0m
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 19:37:44 GMT+0000 (UTC)"}
+info: getting for collection: eyes {"timestamp":"Mon Jan 29 2018 19:37:44 GMT+0000 (UTC)"}
+(node:6224) DeprecationWarning: Mongoose: mpromise (mongoose's default promise library) is deprecated, plug in your own promise library instead: http://mongoosejs.com/docs/promises.html
+error and count,  null 3316
+info: number of records remaining, 3316 {"timestamp":"Mon Jan 29 2018 19:37:44 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 131 {"timestamp":"Mon Jan 29 2018 19:37:44 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9ddb08f79cbe65f9660","index":133,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/16465591_1225618470825614_2152612783844229120_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["fashion","glamour","woman","skin","sexy","eye","lips","blond","hair","long"]} {"timestamp":"Mon Jan 29 2018 19:37:44 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 19:37:44 GMT+0000 (UTC)"}
+[0mGET /eyes [32m200 [0m16.232 ms - 346[0m
+[0mGET /client/dist/glyphicons-halflings-regular.448c34a56d699c29117a.woff2 [32m200 [0m0.676 ms - 18028[0m
+[0mGET /client/dist/assets/images/loading.gif [32m200 [0m0.657 ms - 11228[0m
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 19:38:09 GMT+0000 (UTC)"}
+info: posting for collection: "eyes" {"timestamp":"Mon Jan 29 2018 19:38:09 GMT+0000 (UTC)"}
+info: doc to be posted, {"_id":"5a69b9ddb08f79cbe65f9660","index":133,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/16465591_1225618470825614_2152612783844229120_n.jpg","status":0,"userdefined_tags":["microblading"],"predefined_tags":["fashion","glamour","woman","skin","sexy","eye","lips","blond","hair","long"]} {"timestamp":"Mon Jan 29 2018 19:38:09 GMT+0000 (UTC)"}
+info: userdefined_tags, ["microblading"] {"timestamp":"Mon Jan 29 2018 19:38:09 GMT+0000 (UTC)"}
+info: number of records remaining,  {"timestamp":"Mon Jan 29 2018 19:38:09 GMT+0000 (UTC)"}
+info: skipping these many records randomly,  {"timestamp":"Mon Jan 29 2018 19:38:09 GMT+0000 (UTC)"}
+info: doc being sent:  {"timestamp":"Mon Jan 29 2018 19:38:09 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 19:38:09 GMT+0000 (UTC)"}
+[0mPOST /eyes [32m200 [0m14.965 ms - 698[0m
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 19:38:28 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Mon Jan 29 2018 19:38:28 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.533 ms - -[0m
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 19:38:30 GMT+0000 (UTC)"}
+info: getting for collection: eyes {"timestamp":"Mon Jan 29 2018 19:38:30 GMT+0000 (UTC)"}
+error and count,  null 3315
+info: number of records remaining, 3315 {"timestamp":"Mon Jan 29 2018 19:38:30 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 552 {"timestamp":"Mon Jan 29 2018 19:38:30 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9ddb08f79cbe65f9806","index":555,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/18380917_419015491812057_8466724001891221504_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["people","one","woman","adult","portrait","man","girl","sit","actress","two"]} {"timestamp":"Mon Jan 29 2018 19:38:30 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 19:38:30 GMT+0000 (UTC)"}
+[0mGET /eyes [32m200 [0m3.960 ms - 345[0m
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 19:38:30 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Mon Jan 29 2018 19:38:30 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.513 ms - -[0m
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 19:38:32 GMT+0000 (UTC)"}
+info: getting for collection: tools {"timestamp":"Mon Jan 29 2018 19:38:32 GMT+0000 (UTC)"}
+error and count,  null 807
+info: number of records remaining, 807 {"timestamp":"Mon Jan 29 2018 19:38:32 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 600 {"timestamp":"Mon Jan 29 2018 19:38:32 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9d4b08f79cbe65f9509","index":601,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/17075771_170363173469023_3409109237270315008_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["no person","people","man","monochrome","graphic design","monochromatic","simplicity","elegant","nature","woman"]} {"timestamp":"Mon Jan 29 2018 19:38:32 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 19:38:32 GMT+0000 (UTC)"}
+[0mGET /tools [32m200 [0m3.411 ms - 364[0m
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 19:38:32 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Mon Jan 29 2018 19:38:32 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.428 ms - -[0m
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 19:38:33 GMT+0000 (UTC)"}
+info: getting for collection: face {"timestamp":"Mon Jan 29 2018 19:38:33 GMT+0000 (UTC)"}
+error and count,  null 1003
+info: number of records remaining, 1003 {"timestamp":"Mon Jan 29 2018 19:38:33 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 317 {"timestamp":"Mon Jan 29 2018 19:38:33 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9e2b08f79cbe65fa416","index":320,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/17334080_1880826408796055_212752888634540032_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["woman","pretty","sexy","fashion","indoors","people","hair","portrait","glamour","nude"]} {"timestamp":"Mon Jan 29 2018 19:38:33 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 19:38:33 GMT+0000 (UTC)"}
+[0mGET /face [32m200 [0m3.268 ms - 339[0m
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 19:38:33 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Mon Jan 29 2018 19:38:33 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.421 ms - -[0m
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 19:38:34 GMT+0000 (UTC)"}
+info: getting for collection: hair {"timestamp":"Mon Jan 29 2018 19:38:34 GMT+0000 (UTC)"}
+error and count,  null 2445
+info: number of records remaining, 2445 {"timestamp":"Mon Jan 29 2018 19:38:34 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 694 {"timestamp":"Mon Jan 29 2018 19:38:34 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9e9b08f79cbe65fa980","index":696,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.37.644.644/18380807_1642344212459664_860448662839361536_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["portrait","woman","fashion","wear","people","actress","adult","hairdo","one","model"]} {"timestamp":"Mon Jan 29 2018 19:38:34 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 19:38:34 GMT+0000 (UTC)"}
+[0mGET /hair [32m200 [0m3.880 ms - 351[0m
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 19:38:34 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Mon Jan 29 2018 19:38:34 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.384 ms - -[0m
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 19:38:35 GMT+0000 (UTC)"}
+info: getting for collection: lips {"timestamp":"Mon Jan 29 2018 19:38:35 GMT+0000 (UTC)"}
+error and count,  null 997
+info: number of records remaining, 997 {"timestamp":"Mon Jan 29 2018 19:38:35 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 219 {"timestamp":"Mon Jan 29 2018 19:38:35 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9eeb08f79cbe65fb139","index":219,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18012163_413631825659646_7051053582279245824_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["portrait","woman","girl","fashion","model","people","eyeglasses","brunette","adult","beautiful"]} {"timestamp":"Mon Jan 29 2018 19:38:35 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 19:38:35 GMT+0000 (UTC)"}
+[0mGET /lips [32m200 [0m3.920 ms - 348[0m
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 19:38:35 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Mon Jan 29 2018 19:38:35 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.405 ms - -[0m
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 19:38:36 GMT+0000 (UTC)"}
+info: getting for collection: eyes {"timestamp":"Mon Jan 29 2018 19:38:36 GMT+0000 (UTC)"}
+error and count,  null 3315
+info: number of records remaining, 3315 {"timestamp":"Mon Jan 29 2018 19:38:36 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 797 {"timestamp":"Mon Jan 29 2018 19:38:36 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9ddb08f79cbe65f98fb","index":794,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19764941_129170651010287_3531750147211919360_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["woman","eye","fashion","sexy","portrait","pretty","indoors","girl","relaxation","sleep"]} {"timestamp":"Mon Jan 29 2018 19:38:36 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 19:38:36 GMT+0000 (UTC)"}
+[0mGET /eyes [32m200 [0m3.942 ms - 340[0m
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 19:38:36 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Mon Jan 29 2018 19:38:36 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.424 ms - -[0m
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 19:38:37 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Mon Jan 29 2018 19:38:37 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.536 ms - -[0m
+[0mGET / [36m304 [0m0.250 ms - -[0m
+[0mGET /client/dist/styles.441ed4745639572b9661.bundle.css [36m304 [0m0.252 ms - -[0m
+[0mGET /client/dist/polyfills.f20484b2fa4642e0dca8.bundle.js [36m304 [0m0.440 ms - -[0m
+[0mGET /client/dist/inline.e6d3e5938272b64f4366.bundle.js [36m304 [0m0.427 ms - -[0m
+[0mGET /client/dist/main.ed301b97cc97de3aca3e.bundle.js [36m304 [0m0.152 ms - -[0m
+[0mGET /client/dist/assets/images/background.png [36m304 [0m0.237 ms - -[0m
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 19:51:41 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Mon Jan 29 2018 19:51:41 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.551 ms - -[0m
+[0mGET / [32m200 [0m0.403 ms - 655[0m
+[0mGET /client/dist/polyfills.f20484b2fa4642e0dca8.bundle.js [32m200 [0m0.384 ms - 59417[0m
+[0mGET /client/dist/styles.441ed4745639572b9661.bundle.css [32m200 [0m0.273 ms - 115637[0m
+[0mGET /client/dist/inline.e6d3e5938272b64f4366.bundle.js [32m200 [0m0.523 ms - 1445[0m
+[0mGET /client/dist/main.ed301b97cc97de3aca3e.bundle.js [32m200 [0m1.073 ms - 327769[0m
+[0mGET /client/dist/assets/images/background.png [32m200 [0m0.349 ms - 3581850[0m
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 20:01:05 GMT+0000 (UTC)"}
+info: getting for collection: eyes {"timestamp":"Mon Jan 29 2018 20:01:05 GMT+0000 (UTC)"}
+error and count,  null 3315
+info: number of records remaining, 3315 {"timestamp":"Mon Jan 29 2018 20:01:05 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 1458 {"timestamp":"Mon Jan 29 2018 20:01:05 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9ddb08f79cbe65f9b91","index":1462,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/e35/23970175_169610210296251_906309778165202944_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["fashion","woman","beautiful","girl","model","portrait","glamour","hair","sexy","pretty"]} {"timestamp":"Mon Jan 29 2018 20:01:05 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 20:01:05 GMT+0000 (UTC)"}
+[0mGET /eyes [32m200 [0m4.549 ms - 324[0m
+[0mGET /client/dist/glyphicons-halflings-regular.448c34a56d699c29117a.woff2 [32m200 [0m0.361 ms - 18028[0m
+[0mGET /client/dist/assets/images/loading.gif [32m200 [0m0.251 ms - 11228[0m
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 20:01:09 GMT+0000 (UTC)"}
+info: getting for collection: tools {"timestamp":"Mon Jan 29 2018 20:01:09 GMT+0000 (UTC)"}
+error and count,  null 807
+info: number of records remaining, 807 {"timestamp":"Mon Jan 29 2018 20:01:09 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 408 {"timestamp":"Mon Jan 29 2018 20:01:09 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9d4b08f79cbe65f9449","index":411,"image_url":"https://scontent.cdninstagram.com/t51.2885-15/e35/21294494_1090980967704646_3926707806379442176_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["people","winter","adult","man","one","woman","model","exercise","portrait","equipment"]} {"timestamp":"Mon Jan 29 2018 20:01:09 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 20:01:09 GMT+0000 (UTC)"}
+[0mGET /tools [32m200 [0m2.857 ms - 324[0m
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 20:01:12 GMT+0000 (UTC)"}
+info: getting for collection: hair {"timestamp":"Mon Jan 29 2018 20:01:12 GMT+0000 (UTC)"}
+error and count,  null 2445
+info: number of records remaining, 2445 {"timestamp":"Mon Jan 29 2018 20:01:12 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 708 {"timestamp":"Mon Jan 29 2018 20:01:12 GMT+0000 (UTC)"}
+info: doc being sent: {"_id":"5a69b9e9b08f79cbe65fa98e","index":707,"image_url":"https://scontent.cdninstagram.com/vp/3bef5dd0d02666694b2f7b1b44c104f3/5AFCD219/t51.2885-15/sh0.08/e35/p640x640/18879434_1252626044848788_5473435867378876416_n.jpg","status":0,"userdefined_tags":[],"predefined_tags":["wedding","woman","window","bride","indoors","fashion","dress","veil","girl","bridal"]} {"timestamp":"Mon Jan 29 2018 20:01:12 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Mon Jan 29 2018 20:01:12 GMT+0000 (UTC)"}
+[0mGET /hair [32m200 [0m3.858 ms - 383[0m
+[0mGET //jmx-console/HtmlAdaptor [33m404 [0m0.433 ms - 163[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 01:41:28 GMT+0000 (UTC)"}
+info: getting for collection: script {"timestamp":"Tue Jan 30 2018 01:41:28 GMT+0000 (UTC)"}
+[0mGET /script [32m200 [0m0.560 ms - 12[0m
+[0mGET / [32m200 [0m0.350 ms - 655[0m
+[0mGET / [32m200 [0m0.361 ms - 655[0m
+[0mGET / [32m200 [0m0.338 ms - 655[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 05:12:41 GMT+0000 (UTC)"}
+info: getting for collection: webdav {"timestamp":"Tue Jan 30 2018 05:12:41 GMT+0000 (UTC)"}
+[0mGET /webdav [32m200 [0m0.528 ms - 12[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 05:12:41 GMT+0000 (UTC)"}
+info: getting for collection: service.cgi {"timestamp":"Tue Jan 30 2018 05:12:41 GMT+0000 (UTC)"}
+[0mGET /service.cgi [32m200 [0m0.508 ms - 12[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 05:12:41 GMT+0000 (UTC)"}
+info: getting for collection: service.cgi {"timestamp":"Tue Jan 30 2018 05:12:41 GMT+0000 (UTC)"}
+[0mGET /service.cgi [32m200 [0m0.484 ms - 12[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 05:12:41 GMT+0000 (UTC)"}
+info: getting for collection: service.cgi {"timestamp":"Tue Jan 30 2018 05:12:41 GMT+0000 (UTC)"}
+[0mGET /service.cgi [32m200 [0m0.493 ms - 12[0m
+[0mGET / [32m200 [0m0.364 ms - 655[0m
+[0mGET / [32m200 [0m0.356 ms - 655[0m
+[0mGET / [36m304 [0m0.248 ms - -[0m
+[0mGET /client/dist/styles.441ed4745639572b9661.bundle.css [36m304 [0m0.218 ms - -[0m
+[0mGET /client/dist/inline.e6d3e5938272b64f4366.bundle.js [36m304 [0m0.172 ms - -[0m
+[0mGET /client/dist/polyfills.f20484b2fa4642e0dca8.bundle.js [36m304 [0m0.467 ms - -[0m
+[0mGET /client/dist/main.ed301b97cc97de3aca3e.bundle.js [36m304 [0m0.135 ms - -[0m
+[0mGET /client/dist/assets/images/background.png [36m304 [0m0.197 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 05:29:45 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 05:29:45 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [32m200 [0m0.517 ms - 12[0m
+[0mGET /manager/html [33m404 [0m0.231 ms - 151[0m
+[0mGET /manager/html [33m404 [0m0.170 ms - 151[0m
+[0mGET /manager/html [33m404 [0m0.171 ms - 151[0m
+[0mGET / [32m200 [0m0.343 ms - 655[0m
+[0mGET /manager/html [33m404 [0m0.155 ms - 151[0m
+[0mGET / [32m200 [0m0.343 ms - 655[0m
+[0mGET /client/dist/inline.e6d3e5938272b64f4366.bundle.js [32m200 [0m0.246 ms - 1445[0m
+[0mGET /client/dist/styles.441ed4745639572b9661.bundle.css [32m200 [0m0.325 ms - 115637[0m
+[0mGET /client/dist/polyfills.f20484b2fa4642e0dca8.bundle.js [32m200 [0m0.283 ms - 59417[0m
+[0mGET /client/dist/main.ed301b97cc97de3aca3e.bundle.js [32m200 [0m0.249 ms - 327769[0m
+[0mGET /client/dist/assets/images/background.png [32m200 [0m0.328 ms - 3581850[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:34:29 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 21:34:29 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.517 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:20 GMT+0000 (UTC)"}
+info: getting for collection: eyes {"timestamp":"Tue Jan 30 2018 21:39:20 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Tue Jan 30 2018 21:39:20 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Tue Jan 30 2018 21:39:20 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Tue Jan 30 2018 21:39:20 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:20 GMT+0000 (UTC)"}
+[0mGET /eyes [32m200 [0m1.964 ms - 25[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:20 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 21:39:20 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.456 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:23 GMT+0000 (UTC)"}
+info: getting for collection: tools {"timestamp":"Tue Jan 30 2018 21:39:23 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Tue Jan 30 2018 21:39:23 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Tue Jan 30 2018 21:39:23 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Tue Jan 30 2018 21:39:23 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:23 GMT+0000 (UTC)"}
+[0mGET /tools [32m200 [0m2.676 ms - 25[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:23 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 21:39:23 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.357 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:25 GMT+0000 (UTC)"}
+info: getting for collection: face {"timestamp":"Tue Jan 30 2018 21:39:25 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Tue Jan 30 2018 21:39:25 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Tue Jan 30 2018 21:39:25 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Tue Jan 30 2018 21:39:25 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:25 GMT+0000 (UTC)"}
+[0mGET /face [32m200 [0m1.862 ms - 25[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:25 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 21:39:25 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.358 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:26 GMT+0000 (UTC)"}
+info: getting for collection: hair {"timestamp":"Tue Jan 30 2018 21:39:26 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Tue Jan 30 2018 21:39:26 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Tue Jan 30 2018 21:39:26 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Tue Jan 30 2018 21:39:26 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:26 GMT+0000 (UTC)"}
+[0mGET /hair [32m200 [0m2.392 ms - 25[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:26 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 21:39:26 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.364 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:27 GMT+0000 (UTC)"}
+info: getting for collection: lips {"timestamp":"Tue Jan 30 2018 21:39:27 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Tue Jan 30 2018 21:39:27 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Tue Jan 30 2018 21:39:27 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Tue Jan 30 2018 21:39:27 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:27 GMT+0000 (UTC)"}
+[0mGET /lips [32m200 [0m1.840 ms - 25[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:27 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 21:39:27 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.383 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:29 GMT+0000 (UTC)"}
+info: getting for collection: nail {"timestamp":"Tue Jan 30 2018 21:39:29 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Tue Jan 30 2018 21:39:29 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Tue Jan 30 2018 21:39:29 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Tue Jan 30 2018 21:39:29 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:29 GMT+0000 (UTC)"}
+[0mGET /nail [32m200 [0m1.864 ms - 25[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:29 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 21:39:29 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.355 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:30 GMT+0000 (UTC)"}
+info: getting for collection: skin {"timestamp":"Tue Jan 30 2018 21:39:30 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Tue Jan 30 2018 21:39:30 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Tue Jan 30 2018 21:39:30 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Tue Jan 30 2018 21:39:30 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:30 GMT+0000 (UTC)"}
+[0mGET /skin [32m200 [0m1.847 ms - 25[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:30 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 21:39:30 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.371 ms - -[0m
+[0mGET / [36m304 [0m0.312 ms - -[0m
+[0mGET /client/dist/styles.441ed4745639572b9661.bundle.css [36m304 [0m0.242 ms - -[0m
+[0mGET /client/dist/inline.e6d3e5938272b64f4366.bundle.js [36m304 [0m0.160 ms - -[0m
+[0mGET /client/dist/main.ed301b97cc97de3aca3e.bundle.js [36m304 [0m0.129 ms - -[0m
+[0mGET /client/dist/polyfills.f20484b2fa4642e0dca8.bundle.js [36m304 [0m0.626 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:36 GMT+0000 (UTC)"}
+info: getting for collection: skin {"timestamp":"Tue Jan 30 2018 21:39:36 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Tue Jan 30 2018 21:39:36 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Tue Jan 30 2018 21:39:36 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Tue Jan 30 2018 21:39:36 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:36 GMT+0000 (UTC)"}
+[0mGET /skin [36m304 [0m1.834 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:36 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 21:39:36 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.685 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:38 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 21:39:38 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.513 ms - -[0m
+[0mGET /client/dist/assets/images/background.png [36m304 [0m0.180 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:38 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 21:39:38 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.439 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:40 GMT+0000 (UTC)"}
+info: getting for collection: tools {"timestamp":"Tue Jan 30 2018 21:39:40 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Tue Jan 30 2018 21:39:40 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Tue Jan 30 2018 21:39:40 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Tue Jan 30 2018 21:39:40 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:40 GMT+0000 (UTC)"}
+[0mGET /tools [36m304 [0m1.900 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:40 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 21:39:40 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.367 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:41 GMT+0000 (UTC)"}
+info: getting for collection: face {"timestamp":"Tue Jan 30 2018 21:39:41 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Tue Jan 30 2018 21:39:41 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Tue Jan 30 2018 21:39:41 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Tue Jan 30 2018 21:39:41 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:41 GMT+0000 (UTC)"}
+[0mGET /face [36m304 [0m1.790 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:41 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 21:39:41 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.349 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:42 GMT+0000 (UTC)"}
+info: getting for collection: hair {"timestamp":"Tue Jan 30 2018 21:39:42 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Tue Jan 30 2018 21:39:42 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Tue Jan 30 2018 21:39:42 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Tue Jan 30 2018 21:39:42 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:42 GMT+0000 (UTC)"}
+[0mGET /hair [36m304 [0m1.882 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:42 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 21:39:42 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.365 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:43 GMT+0000 (UTC)"}
+info: getting for collection: lips {"timestamp":"Tue Jan 30 2018 21:39:43 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Tue Jan 30 2018 21:39:43 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Tue Jan 30 2018 21:39:43 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Tue Jan 30 2018 21:39:43 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:43 GMT+0000 (UTC)"}
+[0mGET /lips [36m304 [0m1.869 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:43 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 21:39:43 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.338 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:47 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 21:39:47 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.465 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:47 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 21:39:47 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.444 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:48 GMT+0000 (UTC)"}
+info: getting for collection: eyes {"timestamp":"Tue Jan 30 2018 21:39:48 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Tue Jan 30 2018 21:39:48 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Tue Jan 30 2018 21:39:48 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Tue Jan 30 2018 21:39:48 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:48 GMT+0000 (UTC)"}
+[0mGET /eyes [36m304 [0m1.757 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:48 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 21:39:48 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.382 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:51 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 21:39:51 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.463 ms - -[0m
+[0mGET / [36m304 [0m0.243 ms - -[0m
+[0mGET /client/dist/styles.441ed4745639572b9661.bundle.css [36m304 [0m0.205 ms - -[0m
+[0mGET /client/dist/inline.e6d3e5938272b64f4366.bundle.js [36m304 [0m0.170 ms - -[0m
+[0mGET /client/dist/polyfills.f20484b2fa4642e0dca8.bundle.js [36m304 [0m0.120 ms - -[0m
+[0mGET /client/dist/main.ed301b97cc97de3aca3e.bundle.js [36m304 [0m0.126 ms - -[0m
+[0mGET /client/dist/assets/images/background.png [36m304 [0m0.187 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:39:57 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 21:39:57 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m1.009 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:40:00 GMT+0000 (UTC)"}
+info: getting for collection: eyes {"timestamp":"Tue Jan 30 2018 21:40:00 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Tue Jan 30 2018 21:40:00 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Tue Jan 30 2018 21:40:00 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Tue Jan 30 2018 21:40:00 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:40:00 GMT+0000 (UTC)"}
+[0mGET /eyes [36m304 [0m1.729 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:40:00 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 21:40:00 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.358 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:40:01 GMT+0000 (UTC)"}
+info: getting for collection: tools {"timestamp":"Tue Jan 30 2018 21:40:01 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Tue Jan 30 2018 21:40:01 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Tue Jan 30 2018 21:40:01 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Tue Jan 30 2018 21:40:01 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:40:01 GMT+0000 (UTC)"}
+[0mGET /tools [36m304 [0m1.805 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:40:01 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 21:40:01 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.347 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:40:02 GMT+0000 (UTC)"}
+info: getting for collection: face {"timestamp":"Tue Jan 30 2018 21:40:02 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Tue Jan 30 2018 21:40:02 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Tue Jan 30 2018 21:40:02 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Tue Jan 30 2018 21:40:02 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:40:02 GMT+0000 (UTC)"}
+[0mGET /face [36m304 [0m1.838 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:40:02 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 21:40:02 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.327 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)"}
+info: getting for collection: hair {"timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)"}
+[0mGET /hair [36m304 [0m1.750 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.352 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)"}
+info: getting for collection: lips {"timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)"}
+[0mGET /lips [36m304 [0m2.395 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.352 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)"}
+info: getting for collection: nail {"timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)"}
+[0mGET /nail [36m304 [0m1.833 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.370 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)"}
+info: getting for collection: eyes {"timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)"}
+[0mGET /eyes [36m304 [0m1.724 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.358 ms - -[0m
+[0mGET / [36m304 [0m0.245 ms - -[0m
+[0mGET /client/dist/styles.441ed4745639572b9661.bundle.css [36m304 [0m0.233 ms - -[0m
+[0mGET /client/dist/inline.e6d3e5938272b64f4366.bundle.js [36m304 [0m0.185 ms - -[0m
+[0mGET /client/dist/polyfills.f20484b2fa4642e0dca8.bundle.js [36m304 [0m0.170 ms - -[0m
+[0mGET /client/dist/main.ed301b97cc97de3aca3e.bundle.js [36m304 [0m0.170 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:40:08 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 21:40:08 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.470 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 21:40:09 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 21:40:09 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.408 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 22:27:54 GMT+0000 (UTC)"}
+info: getting for collection: hair {"timestamp":"Tue Jan 30 2018 22:27:54 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Tue Jan 30 2018 22:27:54 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Tue Jan 30 2018 22:27:54 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Tue Jan 30 2018 22:27:54 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 22:27:54 GMT+0000 (UTC)"}
+[0mGET /hair [36m304 [0m1.795 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 22:27:54 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 22:27:54 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.333 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 22:27:55 GMT+0000 (UTC)"}
+info: getting for collection: lips {"timestamp":"Tue Jan 30 2018 22:27:55 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Tue Jan 30 2018 22:27:55 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Tue Jan 30 2018 22:27:55 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Tue Jan 30 2018 22:27:55 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 22:27:55 GMT+0000 (UTC)"}
+[0mGET /lips [36m304 [0m1.846 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 22:27:55 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 22:27:55 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.347 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 22:27:57 GMT+0000 (UTC)"}
+info: getting for collection: nail {"timestamp":"Tue Jan 30 2018 22:27:57 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Tue Jan 30 2018 22:27:57 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Tue Jan 30 2018 22:27:57 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Tue Jan 30 2018 22:27:57 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 22:27:57 GMT+0000 (UTC)"}
+[0mGET /nail [36m304 [0m1.864 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 22:27:57 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 22:27:57 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.347 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 22:27:58 GMT+0000 (UTC)"}
+info: getting for collection: skin {"timestamp":"Tue Jan 30 2018 22:27:58 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Tue Jan 30 2018 22:27:58 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Tue Jan 30 2018 22:27:58 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Tue Jan 30 2018 22:27:58 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 22:27:58 GMT+0000 (UTC)"}
+[0mGET /skin [36m304 [0m2.315 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 22:27:58 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 22:27:58 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.351 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 22:27:59 GMT+0000 (UTC)"}
+info: getting for collection: eyes {"timestamp":"Tue Jan 30 2018 22:27:59 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Tue Jan 30 2018 22:27:59 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Tue Jan 30 2018 22:27:59 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Tue Jan 30 2018 22:27:59 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 22:27:59 GMT+0000 (UTC)"}
+[0mGET /eyes [36m304 [0m1.654 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 22:27:59 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 22:27:59 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.351 ms - -[0m
+[0mGET / [36m304 [0m0.227 ms - -[0m
+[0mGET /client/dist/styles.441ed4745639572b9661.bundle.css [36m304 [0m0.212 ms - -[0m
+[0mGET /client/dist/inline.e6d3e5938272b64f4366.bundle.js [36m304 [0m0.178 ms - -[0m
+[0mGET /client/dist/polyfills.f20484b2fa4642e0dca8.bundle.js [36m304 [0m0.153 ms - -[0m
+[0mGET /client/dist/main.ed301b97cc97de3aca3e.bundle.js [36m304 [0m0.127 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 22:28:03 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 22:28:03 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.493 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 22:28:07 GMT+0000 (UTC)"}
+info: getting for collection: tools {"timestamp":"Tue Jan 30 2018 22:28:07 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Tue Jan 30 2018 22:28:07 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Tue Jan 30 2018 22:28:07 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Tue Jan 30 2018 22:28:07 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 22:28:07 GMT+0000 (UTC)"}
+[0mGET /tools [36m304 [0m1.794 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 22:28:07 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 22:28:07 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.334 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 22:28:12 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 22:28:12 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.447 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 23:03:46 GMT+0000 (UTC)"}
+info: getting for collection: eyes {"timestamp":"Tue Jan 30 2018 23:03:46 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Tue Jan 30 2018 23:03:46 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Tue Jan 30 2018 23:03:46 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Tue Jan 30 2018 23:03:46 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 23:03:46 GMT+0000 (UTC)"}
+[0mGET /eyes [36m304 [0m2.214 ms - -[0m
+info: ========================================================== {"timestamp":"Tue Jan 30 2018 23:03:46 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Tue Jan 30 2018 23:03:46 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.338 ms - -[0m
+[0mGET / [32m200 [0m0.355 ms - 655[0m
+[0mGET / [32m200 [0m0.335 ms - 655[0m
+[0mGET / [32m200 [0m0.342 ms - 655[0m
+[0mGET / [32m200 [0m0.328 ms - 655[0m
+[0mGET / [36m304 [0m0.245 ms - -[0m
+[0mGET /client/dist/styles.441ed4745639572b9661.bundle.css [36m304 [0m0.574 ms - -[0m
+[0mGET /client/dist/inline.e6d3e5938272b64f4366.bundle.js [36m304 [0m0.570 ms - -[0m
+[0mGET /client/dist/main.ed301b97cc97de3aca3e.bundle.js [36m304 [0m0.554 ms - -[0m
+[0mGET /client/dist/polyfills.f20484b2fa4642e0dca8.bundle.js [36m304 [0m0.127 ms - -[0m
+[0mGET /client/dist/assets/images/background.png [36m304 [0m0.189 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 05:45:56 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 05:45:56 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [32m200 [0m0.606 ms - 12[0m
+[0mGET / [36m304 [0m0.223 ms - -[0m
+[0mGET /client/dist/styles.441ed4745639572b9661.bundle.css [36m304 [0m0.210 ms - -[0m
+[0mGET /client/dist/polyfills.f20484b2fa4642e0dca8.bundle.js [36m304 [0m0.166 ms - -[0m
+[0mGET /client/dist/inline.e6d3e5938272b64f4366.bundle.js [36m304 [0m0.127 ms - -[0m
+[0mGET /client/dist/main.ed301b97cc97de3aca3e.bundle.js [36m304 [0m0.150 ms - -[0m
+[0mGET /client/dist/inline.e6d3e5938272b64f4366.bundle.js [36m304 [0m0.205 ms - -[0m
+[0mGET /client/dist/polyfills.f20484b2fa4642e0dca8.bundle.js [36m304 [0m0.165 ms - -[0m
+[0mGET /client/dist/main.ed301b97cc97de3aca3e.bundle.js [36m304 [0m0.162 ms - -[0m
+[0mGET /client/dist/assets/images/background.png [36m304 [0m0.179 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:09:34 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 06:09:34 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.480 ms - -[0m
+[0mGET / [32m200 [0m0.353 ms - 655[0m
+[0mGET /client/dist/inline.e6d3e5938272b64f4366.bundle.js [32m200 [0m0.337 ms - 1445[0m
+[0mGET /client/dist/styles.441ed4745639572b9661.bundle.css [36m304 [0m0.159 ms - -[0m
+[0mGET /client/dist/polyfills.f20484b2fa4642e0dca8.bundle.js [36m304 [0m0.226 ms - -[0m
+[0mGET /client/dist/main.ed301b97cc97de3aca3e.bundle.js [32m200 [0m0.301 ms - 327769[0m
+[0mGET /client/dist/assets/images/background.png [32m200 [0m0.342 ms - 3581850[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:34:22 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 06:34:22 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [32m200 [0m0.474 ms - 12[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:34:35 GMT+0000 (UTC)"}
+info: getting for collection: face {"timestamp":"Wed Jan 31 2018 06:34:35 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Wed Jan 31 2018 06:34:35 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Wed Jan 31 2018 06:34:35 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Wed Jan 31 2018 06:34:35 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:34:35 GMT+0000 (UTC)"}
+[0mGET /face [32m200 [0m2.342 ms - 25[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:34:35 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 06:34:35 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.430 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:34:39 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 06:34:39 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.482 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:34:39 GMT+0000 (UTC)"}
+info: getting for collection: eyes {"timestamp":"Wed Jan 31 2018 06:34:39 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Wed Jan 31 2018 06:34:39 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Wed Jan 31 2018 06:34:39 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Wed Jan 31 2018 06:34:39 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:34:39 GMT+0000 (UTC)"}
+[0mGET /eyes [32m200 [0m1.697 ms - 25[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:34:40 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 06:34:40 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.483 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:34:40 GMT+0000 (UTC)"}
+info: getting for collection: tools {"timestamp":"Wed Jan 31 2018 06:34:40 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Wed Jan 31 2018 06:34:40 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Wed Jan 31 2018 06:34:40 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Wed Jan 31 2018 06:34:40 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:34:40 GMT+0000 (UTC)"}
+[0mGET /tools [32m200 [0m2.170 ms - 25[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:34:41 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 06:34:41 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.468 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:34:41 GMT+0000 (UTC)"}
+info: getting for collection: hair {"timestamp":"Wed Jan 31 2018 06:34:41 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Wed Jan 31 2018 06:34:41 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Wed Jan 31 2018 06:34:41 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Wed Jan 31 2018 06:34:41 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:34:41 GMT+0000 (UTC)"}
+[0mGET /hair [32m200 [0m1.682 ms - 25[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:34:42 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 06:34:42 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.479 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:34:42 GMT+0000 (UTC)"}
+info: getting for collection: lips {"timestamp":"Wed Jan 31 2018 06:34:42 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Wed Jan 31 2018 06:34:42 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Wed Jan 31 2018 06:34:42 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Wed Jan 31 2018 06:34:42 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:34:42 GMT+0000 (UTC)"}
+[0mGET /lips [32m200 [0m1.720 ms - 25[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:34:43 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 06:34:43 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.472 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:34:43 GMT+0000 (UTC)"}
+info: getting for collection: nail {"timestamp":"Wed Jan 31 2018 06:34:43 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Wed Jan 31 2018 06:34:43 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Wed Jan 31 2018 06:34:43 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Wed Jan 31 2018 06:34:43 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:34:43 GMT+0000 (UTC)"}
+[0mGET /nail [32m200 [0m1.815 ms - 25[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:34:44 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 06:34:44 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.467 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:34:44 GMT+0000 (UTC)"}
+info: getting for collection: skin {"timestamp":"Wed Jan 31 2018 06:34:44 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Wed Jan 31 2018 06:34:44 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Wed Jan 31 2018 06:34:44 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Wed Jan 31 2018 06:34:44 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:34:44 GMT+0000 (UTC)"}
+[0mGET /skin [32m200 [0m1.680 ms - 25[0m
+[0mGET / [32m200 [0m0.321 ms - 655[0m
+[0mGET /client/dist/inline.e6d3e5938272b64f4366.bundle.js [32m200 [0m0.288 ms - 1445[0m
+[0mGET /client/dist/polyfills.f20484b2fa4642e0dca8.bundle.js [32m200 [0m0.266 ms - 59417[0m
+[0mGET /client/dist/styles.441ed4745639572b9661.bundle.css [32m200 [0m0.337 ms - 115637[0m
+[0mGET /client/dist/main.ed301b97cc97de3aca3e.bundle.js [32m200 [0m0.316 ms - 327769[0m
+[0mGET /client/dist/assets/images/background.png [32m200 [0m0.328 ms - 3581850[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:35:54 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 06:35:54 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [32m200 [0m0.933 ms - 12[0m
+[0mGET / [32m200 [0m0.327 ms - 655[0m
+[0mGET /client/dist/inline.e6d3e5938272b64f4366.bundle.js [32m200 [0m0.428 ms - 1445[0m
+[0mGET /client/dist/polyfills.f20484b2fa4642e0dca8.bundle.js [32m200 [0m0.541 ms - 59417[0m
+[0mGET /client/dist/styles.441ed4745639572b9661.bundle.css [32m200 [0m0.344 ms - 115637[0m
+[0mGET /client/dist/main.ed301b97cc97de3aca3e.bundle.js [32m200 [0m0.231 ms - 327769[0m
+[0mGET /client/dist/assets/images/background.png [32m200 [0m0.322 ms - 3581850[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:37:35 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 06:37:35 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.475 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:37:36 GMT+0000 (UTC)"}
+info: getting for collection: eyes {"timestamp":"Wed Jan 31 2018 06:37:36 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Wed Jan 31 2018 06:37:36 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Wed Jan 31 2018 06:37:36 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:37:36 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 06:37:36 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.347 ms - -[0m
+info: doc being sent: null {"timestamp":"Wed Jan 31 2018 06:37:36 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:37:36 GMT+0000 (UTC)"}
+[0mGET /eyes [32m200 [0m2.440 ms - 25[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:37:40 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 06:37:40 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.486 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:37:40 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 06:37:40 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.443 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:37:45 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 06:37:45 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.489 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:37:45 GMT+0000 (UTC)"}
+info: getting for collection: tools {"timestamp":"Wed Jan 31 2018 06:37:45 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Wed Jan 31 2018 06:37:45 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Wed Jan 31 2018 06:37:45 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Wed Jan 31 2018 06:37:45 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:37:45 GMT+0000 (UTC)"}
+[0mGET /tools [32m200 [0m1.535 ms - 25[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)"}
+info: getting for collection: face {"timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)"}
+[0mGET /face [32m200 [0m1.744 ms - 25[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.330 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)"}
+info: getting for collection: hair {"timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)"}
+[0mGET /hair [32m200 [0m1.678 ms - 25[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.400 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:37:47 GMT+0000 (UTC)"}
+info: getting for collection: lips {"timestamp":"Wed Jan 31 2018 06:37:47 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Wed Jan 31 2018 06:37:47 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Wed Jan 31 2018 06:37:47 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:37:47 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 06:37:47 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.336 ms - -[0m
+info: doc being sent: null {"timestamp":"Wed Jan 31 2018 06:37:47 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:37:47 GMT+0000 (UTC)"}
+[0mGET /lips [32m200 [0m2.384 ms - 25[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:52:32 GMT+0000 (UTC)"}
+info: getting for collection: eyes {"timestamp":"Wed Jan 31 2018 06:52:32 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Wed Jan 31 2018 06:52:32 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Wed Jan 31 2018 06:52:32 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Wed Jan 31 2018 06:52:32 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:52:32 GMT+0000 (UTC)"}
+[0mGET /eyes [36m304 [0m1.698 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:52:32 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 06:52:32 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.414 ms - -[0m
+[0mGET / [32m200 [0m0.314 ms - 655[0m
+[0mGET /client/dist/inline.e6d3e5938272b64f4366.bundle.js [32m200 [0m0.359 ms - 1445[0m
+[0mGET /client/dist/styles.441ed4745639572b9661.bundle.css [36m304 [0m0.180 ms - -[0m
+[0mGET /client/dist/polyfills.f20484b2fa4642e0dca8.bundle.js [36m304 [0m0.191 ms - -[0m
+[0mGET /client/dist/main.ed301b97cc97de3aca3e.bundle.js [32m200 [0m0.287 ms - 327769[0m
+[0mGET /client/dist/assets/images/background.png [32m200 [0m0.344 ms - 3581850[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:54:47 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 06:54:47 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.485 ms - -[0m
+[0mGET / [32m200 [0m0.332 ms - 655[0m
+[0mGET /client/dist/styles.441ed4745639572b9661.bundle.css [32m200 [0m0.345 ms - 115637[0m
+[0mGET /client/dist/inline.e6d3e5938272b64f4366.bundle.js [32m200 [0m0.310 ms - 1445[0m
+[0mGET /client/dist/polyfills.f20484b2fa4642e0dca8.bundle.js [32m200 [0m0.303 ms - 59417[0m
+[0mGET /client/dist/main.ed301b97cc97de3aca3e.bundle.js [32m200 [0m0.282 ms - 327769[0m
+[0mGET /client/dist/assets/images/background.png [32m200 [0m0.336 ms - 3581850[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:58:25 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 06:58:25 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [32m200 [0m0.477 ms - 12[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:58:25 GMT+0000 (UTC)"}
+info: getting for collection: eyes {"timestamp":"Wed Jan 31 2018 06:58:25 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Wed Jan 31 2018 06:58:25 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Wed Jan 31 2018 06:58:25 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Wed Jan 31 2018 06:58:25 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:58:25 GMT+0000 (UTC)"}
+[0mGET /eyes [32m200 [0m1.745 ms - 25[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:58:26 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 06:58:26 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.474 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:58:29 GMT+0000 (UTC)"}
+info: getting for collection: tools {"timestamp":"Wed Jan 31 2018 06:58:29 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Wed Jan 31 2018 06:58:29 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Wed Jan 31 2018 06:58:29 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Wed Jan 31 2018 06:58:29 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:58:29 GMT+0000 (UTC)"}
+[0mGET /tools [32m200 [0m1.720 ms - 25[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:58:29 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 06:58:29 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.400 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:58:30 GMT+0000 (UTC)"}
+info: getting for collection: face {"timestamp":"Wed Jan 31 2018 06:58:30 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Wed Jan 31 2018 06:58:30 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Wed Jan 31 2018 06:58:30 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Wed Jan 31 2018 06:58:30 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:58:30 GMT+0000 (UTC)"}
+[0mGET /face [32m200 [0m1.692 ms - 25[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:58:30 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 06:58:30 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.742 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)"}
+info: getting for collection: lips {"timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)"}
+[0mGET /lips [32m200 [0m1.697 ms - 25[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.372 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)"}
+info: getting for collection: hair {"timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)"}
+[0mGET /hair [32m200 [0m1.649 ms - 25[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.410 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:58:32 GMT+0000 (UTC)"}
+info: getting for collection: eyes {"timestamp":"Wed Jan 31 2018 06:58:32 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Wed Jan 31 2018 06:58:32 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Wed Jan 31 2018 06:58:32 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Wed Jan 31 2018 06:58:32 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:58:32 GMT+0000 (UTC)"}
+[0mGET /eyes [36m304 [0m1.689 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 06:58:32 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 06:58:32 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.340 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 07:01:14 GMT+0000 (UTC)"}
+info: getting for collection: hair {"timestamp":"Wed Jan 31 2018 07:01:14 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Wed Jan 31 2018 07:01:14 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Wed Jan 31 2018 07:01:14 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Wed Jan 31 2018 07:01:14 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 07:01:14 GMT+0000 (UTC)"}
+[0mGET /hair [32m200 [0m2.164 ms - 25[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 07:01:14 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 07:01:14 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.429 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)"}
+info: getting for collection: tools {"timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)"}
+[0mGET /tools [36m304 [0m1.854 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.425 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)"}
+info: getting for collection: face {"timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)"}
+[0mGET /face [36m304 [0m1.835 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.429 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 07:01:56 GMT+0000 (UTC)"}
+info: getting for collection: hair {"timestamp":"Wed Jan 31 2018 07:01:56 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Wed Jan 31 2018 07:01:56 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Wed Jan 31 2018 07:01:56 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Wed Jan 31 2018 07:01:56 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 07:01:56 GMT+0000 (UTC)"}
+[0mGET /hair [36m304 [0m1.826 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 07:01:56 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 07:01:56 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.563 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 07:01:57 GMT+0000 (UTC)"}
+info: getting for collection: lips {"timestamp":"Wed Jan 31 2018 07:01:57 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Wed Jan 31 2018 07:01:57 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Wed Jan 31 2018 07:01:57 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Wed Jan 31 2018 07:01:57 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 07:01:57 GMT+0000 (UTC)"}
+[0mGET /lips [36m304 [0m2.290 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 07:01:57 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 07:01:57 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.438 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 07:01:58 GMT+0000 (UTC)"}
+info: getting for collection: favicon.ico {"timestamp":"Wed Jan 31 2018 07:01:58 GMT+0000 (UTC)"}
+[0mGET /favicon.ico [36m304 [0m0.467 ms - -[0m
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 07:01:58 GMT+0000 (UTC)"}
+info: getting for collection: nail {"timestamp":"Wed Jan 31 2018 07:01:58 GMT+0000 (UTC)"}
+error and count,  null 0
+info: number of records remaining, 0 {"timestamp":"Wed Jan 31 2018 07:01:58 GMT+0000 (UTC)"}
+info: skipping these many records randomly, 0 {"timestamp":"Wed Jan 31 2018 07:01:58 GMT+0000 (UTC)"}
+info: doc being sent: null {"timestamp":"Wed Jan 31 2018 07:01:58 GMT+0000 (UTC)"}
+info: ========================================================== {"timestamp":"Wed Jan 31 2018 07:01:58 GMT+0000 (UTC)"}
+[0mGET /nail [32m200 [0m1.894 ms - 25[0m

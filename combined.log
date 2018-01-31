@@ -1,70 +1,873 @@
-{"level":"info","timestamp":"Thu Jan 25 2018 14:32:57 GMT+0530 (India Standard Time)","message":"~~~~~~~~~~~~~~~~~~LOGGING STARTS HERE~~~~~~~~~~~~~~~~~~"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:33:05 GMT+0530 (India Standard Time)","message":"~~~~~~~~~~~~~~~~~~LOGGING STARTS HERE~~~~~~~~~~~~~~~~~~"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"=========================================================="}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"getting for collection: styles.441ed4745639572b9661.bundle.css"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"=========================================================="}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"getting for collection: inline.e6d3e5938272b64f4366.bundle.js"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"=========================================================="}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"getting for collection: polyfills.f20484b2fa4642e0dca8.bundle.js"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"=========================================================="}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"getting for collection: main.ed301b97cc97de3aca3e.bundle.js"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"=========================================================="}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"getting for collection: styles.441ed4745639572b9661.bundle.css"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"=========================================================="}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"getting for collection: inline.e6d3e5938272b64f4366.bundle.js"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"=========================================================="}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"getting for collection: polyfills.f20484b2fa4642e0dca8.bundle.js"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"=========================================================="}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:33:11 GMT+0530 (India Standard Time)","message":"getting for collection: main.ed301b97cc97de3aca3e.bundle.js"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:33:55 GMT+0530 (India Standard Time)","message":"~~~~~~~~~~~~~~~~~~LOGGING STARTS HERE~~~~~~~~~~~~~~~~~~"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:02 GMT+0530 (India Standard Time)","message":"=========================================================="}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:02 GMT+0530 (India Standard Time)","message":"getting for collection: nail"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:02 GMT+0530 (India Standard Time)","message":"number of records remaining, 0"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:02 GMT+0530 (India Standard Time)","message":"skipping these many records randomly, 0"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:02 GMT+0530 (India Standard Time)","message":"doc being sent: null"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:02 GMT+0530 (India Standard Time)","message":"=========================================================="}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:04 GMT+0530 (India Standard Time)","message":"=========================================================="}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:04 GMT+0530 (India Standard Time)","message":"getting for collection: skin"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:04 GMT+0530 (India Standard Time)","message":"number of records remaining, 1520"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:04 GMT+0530 (India Standard Time)","message":"skipping these many records randomly, 851"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:04 GMT+0530 (India Standard Time)","message":"doc being sent: {\"_id\":\"5a65d383d344d6d1d19768e9\",\"index\":867,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25038060_1548956511808595_7187073280988151808_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"no person\",\"business\",\"isolated\",\"paper\",\"one\",\"tube\",\"currency\",\"health\",\"isolate\",\"milk\"]}"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:04 GMT+0530 (India Standard Time)","message":"=========================================================="}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:07 GMT+0530 (India Standard Time)","message":"=========================================================="}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:07 GMT+0530 (India Standard Time)","message":"getting for collection: tools"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:07 GMT+0530 (India Standard Time)","message":"number of records remaining, 738"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:07 GMT+0530 (India Standard Time)","message":"skipping these many records randomly, 404"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:07 GMT+0530 (India Standard Time)","message":"doc being sent: {\"_id\":\"5a65d2f2d344d6d1d1973d89\",\"index\":440,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/e35/c0.76.608.608/20837344_128069847814435_3216477613287538688_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"business\",\"finance\",\"currency\",\"wealth\",\"vertical\",\"pay\",\"savings\",\"paper\",\"illustration\",\"economy\"]}"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:07 GMT+0530 (India Standard Time)","message":"=========================================================="}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:12 GMT+0530 (India Standard Time)","message":"=========================================================="}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:12 GMT+0530 (India Standard Time)","message":"posting for collection: \"tools\""}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:12 GMT+0530 (India Standard Time)","message":"doc to be posted, {\"_id\":\"5a65d2f2d344d6d1d1973d89\",\"index\":440,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/e35/c0.76.608.608/20837344_128069847814435_3216477613287538688_n.jpg\",\"status\":0,\"userdefined_tags\":[\"business\",\"currency\",\"illustration\"],\"predefined_tags\":[\"business\",\"finance\",\"currency\",\"wealth\",\"vertical\",\"pay\",\"savings\",\"paper\",\"illustration\",\"economy\"]}"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:12 GMT+0530 (India Standard Time)","message":"userdefined_tags, [\"business\",\"currency\",\"illustration\"]"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:13 GMT+0530 (India Standard Time)","message":"number of records remaining, "}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:13 GMT+0530 (India Standard Time)","message":"skipping these many records randomly, "}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:13 GMT+0530 (India Standard Time)","message":"doc being sent: "}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:13 GMT+0530 (India Standard Time)","message":"=========================================================="}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:16 GMT+0530 (India Standard Time)","message":"=========================================================="}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:16 GMT+0530 (India Standard Time)","message":"posting for collection: \"tools\""}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:16 GMT+0530 (India Standard Time)","message":"doc to be posted, {\"_id\":\"5a65d2f2d344d6d1d1973e2f\",\"index\":609,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.96.1080.1080/18808912_786354668190384_1420868618530324480_n.jpg\",\"status\":0,\"userdefined_tags\":[\"isolated\",\"woman\",\"long\"],\"predefined_tags\":[\"woman\",\"isolated\",\"hairdo\",\"hair\",\"crinkled\",\"long\",\"straight\",\"fashion\",\"haircut\",\"curl\"]}"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:16 GMT+0530 (India Standard Time)","message":"userdefined_tags, [\"isolated\",\"woman\",\"long\"]"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:16 GMT+0530 (India Standard Time)","message":"number of records remaining, "}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:16 GMT+0530 (India Standard Time)","message":"skipping these many records randomly, "}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:17 GMT+0530 (India Standard Time)","message":"doc being sent: "}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:17 GMT+0530 (India Standard Time)","message":"=========================================================="}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:21 GMT+0530 (India Standard Time)","message":"=========================================================="}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:21 GMT+0530 (India Standard Time)","message":"posting for collection: \"tools\""}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:21 GMT+0530 (India Standard Time)","message":"doc to be posted, {\"_id\":\"5a65d2f2d344d6d1d1973ef6\",\"index\":806,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/e15/26288505_392696857810934_4206195136650018816_n.jpg\",\"status\":0,\"userdefined_tags\":[\"asdfsadf\"],\"predefined_tags\":[\"woman\",\"hand\",\"no person\",\"health\",\"medicine\",\"one\",\"treatment\",\"luxury\",\"indoors\",\"jewelry\"]}"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:21 GMT+0530 (India Standard Time)","message":"userdefined_tags, [\"asdfsadf\"]"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:22 GMT+0530 (India Standard Time)","message":"number of records remaining, "}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:22 GMT+0530 (India Standard Time)","message":"skipping these many records randomly, "}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:22 GMT+0530 (India Standard Time)","message":"doc being sent: "}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:22 GMT+0530 (India Standard Time)","message":"=========================================================="}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:25 GMT+0530 (India Standard Time)","message":"=========================================================="}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:25 GMT+0530 (India Standard Time)","message":"posting for collection: \"tools\""}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:25 GMT+0530 (India Standard Time)","message":"doc to be posted, {\"_id\":\"5a65d2f2d344d6d1d1973e53\",\"index\":643,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/c116.0.450.450/18513008_1666772020297595_2131555718833111040_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"flower\",\"fragility\",\"vertical\",\"still life\",\"freshness\",\"bouquet\",\"flora\",\"gift\",\"horizontal\",\"nature\"]}"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:25 GMT+0530 (India Standard Time)","message":"userdefined_tags, []"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:25 GMT+0530 (India Standard Time)","message":"No user-defined tags"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:25 GMT+0530 (India Standard Time)","message":"number of records remaining, 735"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:25 GMT+0530 (India Standard Time)","message":"skipping these many records randomly, 347"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:26 GMT+0530 (India Standard Time)","message":"doc being sent: {\"_id\":\"5a65d2f2d344d6d1d1973d4b\",\"index\":379,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21827343_1668787949822544_4600152970380705792_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"business\",\"paper\",\"no person\",\"indoors\",\"wood\",\"vertical\",\"identity\",\"family\",\"contemporary\",\"document\"]}"}
-{"level":"info","timestamp":"Thu Jan 25 2018 14:34:26 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:18 GMT+0000 (UTC)","message":"~~~~~~~~~~~~~~~~~~LOGGING STARTS HERE~~~~~~~~~~~~~~~~~~"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:44 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:44 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:46 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:46 GMT+0000 (UTC)","message":"getting for collection: eyes"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:46 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:46 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:46 GMT+0000 (UTC)","message":"number of records remaining, 3316"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:46 GMT+0000 (UTC)","message":"skipping these many records randomly, 708"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:46 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9ddb08f79cbe65f98a1\",\"index\":707,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18879552_1672690466373992_9018924154681819136_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"woman\",\"portrait\",\"one\",\"girl\",\"fashion\",\"facial expression\",\"sexy\",\"adult\",\"pretty\",\"nude\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:46 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:48 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:48 GMT+0000 (UTC)","message":"getting for collection: tools"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:48 GMT+0000 (UTC)","message":"number of records remaining, 807"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:48 GMT+0000 (UTC)","message":"skipping these many records randomly, 566"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:48 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:48 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:48 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9d4b08f79cbe65f94e7\",\"index\":568,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/17266143_1770758079908189_8129622597332631552_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"fashion\",\"woman\",\"glamour\",\"girl\",\"portrait\",\"model\",\"beautiful\",\"hairdo\",\"hair\",\"sexy\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:48 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:49 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:49 GMT+0000 (UTC)","message":"getting for collection: face"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:49 GMT+0000 (UTC)","message":"number of records remaining, 1003"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:49 GMT+0000 (UTC)","message":"skipping these many records randomly, 600"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:49 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9e2b08f79cbe65fa531\",\"index\":601,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19932413_246673222497882_7287486429502898176_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"woman\",\"girl\",\"fashion\",\"portrait\",\"sexy\",\"pretty\",\"model\",\"beautiful\",\"glamour\",\"young\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:49 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:49 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:49 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:50 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:50 GMT+0000 (UTC)","message":"getting for collection: hair"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:50 GMT+0000 (UTC)","message":"number of records remaining, 2445"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:50 GMT+0000 (UTC)","message":"skipping these many records randomly, 176"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:50 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9e9b08f79cbe65fa77a\",\"index\":179,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/16464494_246691965774373_1494615882767269888_n.jpg?ig_cache_key=MTQ0ODcyMTE4MzY5MjI1NzM5Ng%3D%3D.2\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"indoors\",\"woman\",\"horizontal\",\"people\",\"paper\",\"vertical\",\"fashion\",\"child\",\"no person\",\"healthcare\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:50 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:50 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:50 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:51 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:51 GMT+0000 (UTC)","message":"getting for collection: lips"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:51 GMT+0000 (UTC)","message":"number of records remaining, 997"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:51 GMT+0000 (UTC)","message":"skipping these many records randomly, 947"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:51 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9eeb08f79cbe65fb411\",\"index\":948,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/e15/21294838_145322929396474_344443625381298176_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"portrait\",\"fashion\",\"people\",\"face\",\"adult\",\"model\",\"beautiful\",\"glamour\",\"young\",\"woman\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:51 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:51 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:51 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:52 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:52 GMT+0000 (UTC)","message":"getting for collection: nail"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:52 GMT+0000 (UTC)","message":"number of records remaining, 2073"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:52 GMT+0000 (UTC)","message":"skipping these many records randomly, 1128"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:52 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69ba36b08f79cbe65fb8b1\",\"index\":1131,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23098579_285541435268074_9063235074576613376_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"woman\",\"indoors\",\"business\",\"people\",\"treatment\",\"relaxation\",\"wood\",\"fashion\",\"foot\",\"luxury\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:52 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:52 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:52 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:53 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:53 GMT+0000 (UTC)","message":"getting for collection: skin"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:53 GMT+0000 (UTC)","message":"number of records remaining, 1539"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:53 GMT+0000 (UTC)","message":"skipping these many records randomly, 409"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:53 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69ba3cb08f79cbe65fbe01\",\"index\":410,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25037746_214423809101350_976521863410745344_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"relaxation\",\"indoors\",\"horizontal\",\"treatment\",\"health\",\"woman\",\"massage\",\"adult\",\"child\",\"people\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:53 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:53 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:09:53 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:43 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:43 GMT+0000 (UTC)","message":"getting for collection: nail"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:43 GMT+0000 (UTC)","message":"number of records remaining, 2073"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:43 GMT+0000 (UTC)","message":"skipping these many records randomly, 56"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:43 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69ba36b08f79cbe65fb480\",\"index\":58,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/16230247_1572051812824599_3326563762592284672_n.jpg?ig_cache_key=MTQ0ODcxMjI0MjQ4NDExMzM5NA%3D%3D.2\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"woman\",\"care\",\"treatment\",\"hand\",\"manicure\",\"fingernail\",\"horizontal\",\"addiction\",\"pain\",\"health\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:43 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:43 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:43 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:45 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:45 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:45 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:45 GMT+0000 (UTC)","message":"getting for collection: lips"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:45 GMT+0000 (UTC)","message":"number of records remaining, 997"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:45 GMT+0000 (UTC)","message":"skipping these many records randomly, 734"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:45 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9eeb08f79cbe65fb33c\",\"index\":737,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23098563_1834238546867208_8285638358101655552_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"girl\",\"fashion\",\"woman\",\"beautiful\",\"model\",\"glamour\",\"portrait\",\"style\",\"hair\",\"sexy\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:45 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:46 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:46 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:46 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:46 GMT+0000 (UTC)","message":"getting for collection: eyes"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:46 GMT+0000 (UTC)","message":"number of records remaining, 3316"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:46 GMT+0000 (UTC)","message":"skipping these many records randomly, 3149"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:46 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9ddb08f79cbe65fa22d\",\"index\":3152,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/15876718_1202887883098539_1663697350662553600_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"facial expression\",\"portrait\",\"woman\",\"happiness\",\"people\",\"wear\",\"red carpet\",\"togetherness\",\"love\",\"affection\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:46 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:48 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:48 GMT+0000 (UTC)","message":"getting for collection: tools"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:48 GMT+0000 (UTC)","message":"number of records remaining, 807"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:48 GMT+0000 (UTC)","message":"skipping these many records randomly, 221"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:48 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9d4b08f79cbe65f938e\",\"index\":215,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23421846_147842332632843_1954707081755885568_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"woman\",\"girl\",\"portrait\",\"beautiful\",\"young\",\"face\",\"person\",\"people\",\"adult\",\"attractive\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:48 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:48 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:48 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:49 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:49 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:49 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:49 GMT+0000 (UTC)","message":"getting for collection: face"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:49 GMT+0000 (UTC)","message":"number of records remaining, 1003"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:49 GMT+0000 (UTC)","message":"skipping these many records randomly, 374"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:49 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9e2b08f79cbe65fa44f\",\"index\":377,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/18096612_1627118213969196_5807312541772152832_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"woman\",\"portrait\",\"girl\",\"people\",\"eye\",\"fashion\",\"pretty\",\"model\",\"indoors\",\"adult\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:49 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:50 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:50 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:50 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:50 GMT+0000 (UTC)","message":"getting for collection: hair"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:50 GMT+0000 (UTC)","message":"number of records remaining, 2445"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:50 GMT+0000 (UTC)","message":"skipping these many records randomly, 2086"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:50 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9e9b08f79cbe65faef2\",\"index\":2086,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/24845540_1970849253166413_8968873431902715904_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"woman\",\"portrait\",\"fashion\",\"one\",\"sexy\",\"people\",\"wear\",\"glamour\",\"adult\",\"model\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:50 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:59 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:14:59 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:08 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:08 GMT+0000 (UTC)","message":"getting for collection: eyes"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:08 GMT+0000 (UTC)","message":"number of records remaining, 3316"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:08 GMT+0000 (UTC)","message":"skipping these many records randomly, 592"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:08 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9ddb08f79cbe65f982d\",\"index\":588,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18382592_290587974730010_8882953448664858624_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"fashion\",\"woman\",\"glamour\",\"portrait\",\"girl\",\"model\",\"eye\",\"sexy\",\"lips\",\"hair\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:08 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:08 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:08 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:13 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:13 GMT+0000 (UTC)","message":"getting for collection: tools"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:13 GMT+0000 (UTC)","message":"number of records remaining, 807"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:13 GMT+0000 (UTC)","message":"skipping these many records randomly, 654"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:13 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:13 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:13 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9d4b08f79cbe65f953f\",\"index\":654,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18382539_1927726487506730_4267634892927401984_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"woman\",\"fashion\",\"portrait\",\"pretty\",\"sexy\",\"eye\",\"glamour\",\"girl\",\"model\",\"hair\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:13 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:14 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:14 GMT+0000 (UTC)","message":"getting for collection: face"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:14 GMT+0000 (UTC)","message":"number of records remaining, 1003"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:14 GMT+0000 (UTC)","message":"skipping these many records randomly, 463"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:14 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9e2b08f79cbe65fa4a8\",\"index\":458,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.103.1080.1080/18382570_1781553552175095_6664511744024510464_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"outdoors\",\"nature\",\"man\",\"telephone\",\"portrait\",\"people\",\"one\",\"summer\",\"young\",\"outside\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:14 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:14 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:14 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:16 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:16 GMT+0000 (UTC)","message":"getting for collection: hair"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:16 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:16 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:16 GMT+0000 (UTC)","message":"number of records remaining, 2445"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:16 GMT+0000 (UTC)","message":"skipping these many records randomly, 1684"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:16 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9e9b08f79cbe65fad5f\",\"index\":1686,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/e35/23099224_367666113690991_1401411218383568896_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"woman\",\"fashion\",\"skin\",\"young\",\"isolated\",\"health\",\"pretty\",\"relaxation\",\"eye\",\"people\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:15:16 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:26 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:26 GMT+0000 (UTC)","message":"getting for collection: eyes"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:26 GMT+0000 (UTC)","message":"number of records remaining, 3316"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:26 GMT+0000 (UTC)","message":"skipping these many records randomly, 2374"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:26 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9ddb08f79cbe65f9f25\",\"index\":2375,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.79.653.653/16583250_986439721456427_5735807306298294272_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"eyelash\",\"girl\",\"eyeball\",\"mascara\",\"woman\",\"eyebrow\",\"eyesight\",\"glamour\",\"vision\",\"model\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:26 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:26 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:26 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:27 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:27 GMT+0000 (UTC)","message":"getting for collection: tools"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:27 GMT+0000 (UTC)","message":"number of records remaining, 807"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:27 GMT+0000 (UTC)","message":"skipping these many records randomly, 636"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:27 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9d4b08f79cbe65f952d\",\"index\":638,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18581067_1043462335787401_3378234684474392576_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"woman\",\"fashion\",\"girl\",\"people\",\"business\",\"indoors\",\"adult\",\"room\",\"portrait\",\"model\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:27 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:27 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:27 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:28 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:28 GMT+0000 (UTC)","message":"getting for collection: face"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:28 GMT+0000 (UTC)","message":"number of records remaining, 1003"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:28 GMT+0000 (UTC)","message":"skipping these many records randomly, 315"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:28 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9e2b08f79cbe65fa414\",\"index\":318,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c135.0.810.810/17334137_1732679183709139_2299822053475221504_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"fashion\",\"woman\",\"pretty\",\"portrait\",\"glamour\",\"girl\",\"sexy\",\"model\",\"cute\",\"eye\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:28 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:28 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:28 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:32 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:32 GMT+0000 (UTC)","message":"getting for collection: hair"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:32 GMT+0000 (UTC)","message":"number of records remaining, 2445"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:32 GMT+0000 (UTC)","message":"skipping these many records randomly, 677"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:32 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:32 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:32 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9e9b08f79cbe65fa96f\",\"index\":677,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/18443329_721504151392109_6887898752640614400_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"portrait\",\"people\",\"adult\",\"facial expression\",\"one\",\"wear\",\"woman\",\"girl\",\"blond\",\"promotion\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:32 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:33 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:33 GMT+0000 (UTC)","message":"getting for collection: lips"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:33 GMT+0000 (UTC)","message":"number of records remaining, 997"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:33 GMT+0000 (UTC)","message":"skipping these many records randomly, 2"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:33 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9eeb08f79cbe65fb060\",\"index\":5,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/c0.75.599.599/17332710_355624874838549_389162180622155776_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"woman\",\"fashion\",\"pretty\",\"summer\",\"cute\",\"lid\",\"young\",\"beautiful\",\"glamour\",\"portrait\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:33 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:33 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:16:33 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:20 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:20 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:20 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:20 GMT+0000 (UTC)","message":"getting for collection: lips"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:20 GMT+0000 (UTC)","message":"number of records remaining, 997"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:20 GMT+0000 (UTC)","message":"skipping these many records randomly, 694"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:20 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9eeb08f79cbe65fb314\",\"index\":695,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18444751_128658894445951_1025366056861958144_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"fashion\",\"glamour\",\"woman\",\"lips\",\"eye\",\"sexy\",\"lipstick\",\"skin\",\"elegant\",\"luxury\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:20 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:23 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:23 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:23 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:23 GMT+0000 (UTC)","message":"getting for collection: tools"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:23 GMT+0000 (UTC)","message":"number of records remaining, 807"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:23 GMT+0000 (UTC)","message":"skipping these many records randomly, 355"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:23 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9d4b08f79cbe65f9414\",\"index\":357,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21827542_118098782208463_8485097197673644032_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"portrait\",\"woman\",\"people\",\"girl\",\"model\",\"school\",\"fashion\",\"university\",\"education\",\"adult\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:23 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:25 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:25 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:25 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:25 GMT+0000 (UTC)","message":"getting for collection: face"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:25 GMT+0000 (UTC)","message":"number of records remaining, 1003"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:25 GMT+0000 (UTC)","message":"skipping these many records randomly, 87"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:25 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9e2b08f79cbe65fa330\",\"index\":87,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.28.773.773/16110534_369252300107237_8950876505320194048_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"woman\",\"portrait\",\"fashion\",\"nude\",\"glamour\",\"brunette\",\"girl\",\"skin\",\"facial expression\",\"model\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:25 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:27 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:27 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:27 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:27 GMT+0000 (UTC)","message":"getting for collection: hair"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:27 GMT+0000 (UTC)","message":"number of records remaining, 2445"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:27 GMT+0000 (UTC)","message":"skipping these many records randomly, 1329"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:27 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9e9b08f79cbe65fabfc\",\"index\":1329,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21879047_322758994801410_1586157840756637696_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"woman\",\"adult\",\"girl\",\"people\",\"business\",\"portrait\",\"fashion\",\"one\",\"model\",\"beautiful\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:27 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:28 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:28 GMT+0000 (UTC)","message":"getting for collection: lips"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:28 GMT+0000 (UTC)","message":"number of records remaining, 997"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:28 GMT+0000 (UTC)","message":"skipping these many records randomly, 794"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:29 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9eeb08f79cbe65fb378\",\"index\":796,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/e15/22802110_898320856983937_3211678764723339264_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"indoors\",\"adult\",\"people\",\"portrait\",\"woman\",\"contemplation\",\"confidence\",\"facial expression\",\"horizontal\",\"side view\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:29 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:29 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:29 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:30 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:30 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:30 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:30 GMT+0000 (UTC)","message":"getting for collection: nail"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:30 GMT+0000 (UTC)","message":"number of records remaining, 2073"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:30 GMT+0000 (UTC)","message":"skipping these many records randomly, 591"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:30 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69ba36b08f79cbe65fb697\",\"index\":592,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/18809100_699893173526110_998308475861729280_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"fashion\",\"woman\",\"bracelet\",\"jewelry\",\"foot\",\"hand\",\"skin\",\"manicure\",\"luxury\",\"love\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:30 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:33 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:33 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:33 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:33 GMT+0000 (UTC)","message":"getting for collection: skin"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:33 GMT+0000 (UTC)","message":"number of records remaining, 1539"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:33 GMT+0000 (UTC)","message":"skipping these many records randomly, 591"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:33 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69ba3cb08f79cbe65fbeb7\",\"index\":592,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/e35/25038395_700734670122200_6538708033051033600_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"woman\",\"outdoors\",\"romance\",\"love\",\"groom\",\"wedding\",\"veil\",\"people\",\"two\",\"togetherness\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:33 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:36 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:36 GMT+0000 (UTC)","message":"getting for collection: eyes"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:36 GMT+0000 (UTC)","message":"number of records remaining, 3316"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:36 GMT+0000 (UTC)","message":"skipping these many records randomly, 2923"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:36 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9ddb08f79cbe65fa14a\",\"index\":2926,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19379314_1555341094528878_8396882928805609472_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"woman\",\"fashion\",\"glamour\",\"eye\",\"lips\",\"sexy\",\"skin\",\"portrait\",\"elegant\",\"pretty\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:36 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:36 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:36 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:38 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:38 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:38 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:38 GMT+0000 (UTC)","message":"getting for collection: tools"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:38 GMT+0000 (UTC)","message":"number of records remaining, 807"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:38 GMT+0000 (UTC)","message":"skipping these many records randomly, 226"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:38 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9d4b08f79cbe65f9393\",\"index\":227,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23347887_191293214775393_3994714700796395520_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"no person\",\"contemporary\",\"empty\",\"indoors\",\"family\",\"room\",\"furniture\",\"paper\",\"inside\",\"interior design\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:38 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:41 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:41 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:41 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:41 GMT+0000 (UTC)","message":"getting for collection: face"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:41 GMT+0000 (UTC)","message":"number of records remaining, 1003"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:41 GMT+0000 (UTC)","message":"skipping these many records randomly, 890"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:41 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9e2b08f79cbe65fa653\",\"index\":892,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23101170_353884595065177_8341579783146045440_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"woman\",\"fashion\",\"glamour\",\"style\",\"girl\",\"portrait\",\"lips\",\"model\",\"elegant\",\"isolated\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:41 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:42 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:42 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:42 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:42 GMT+0000 (UTC)","message":"getting for collection: hair"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:42 GMT+0000 (UTC)","message":"number of records remaining, 2445"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:42 GMT+0000 (UTC)","message":"skipping these many records randomly, 442"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:42 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9e9b08f79cbe65fa884\",\"index\":445,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/c0.75.599.599/18095394_692791234178744_8908228777151037440_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"woman\",\"people\",\"indoors\",\"adult\",\"portrait\",\"one\",\"wear\",\"family\",\"facial expression\",\"business\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:42 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:48 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:48 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:48 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:48 GMT+0000 (UTC)","message":"getting for collection: lips"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:48 GMT+0000 (UTC)","message":"number of records remaining, 997"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:48 GMT+0000 (UTC)","message":"skipping these many records randomly, 631"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:48 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9eeb08f79cbe65fb2d5\",\"index\":626,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21689919_272871123231856_3894111018942464000_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"woman\",\"fashion\",\"girl\",\"people\",\"portrait\",\"stub\",\"pretty\",\"lips\",\"model\",\"sexy\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:48 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:50 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:50 GMT+0000 (UTC)","message":"getting for collection: hair"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:50 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:50 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:50 GMT+0000 (UTC)","message":"number of records remaining, 2445"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:50 GMT+0000 (UTC)","message":"skipping these many records randomly, 1652"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:50 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9e9b08f79cbe65fad3f\",\"index\":1651,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/22794034_549760575369504_927520585825648640_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"people\",\"woman\",\"wear\",\"portrait\",\"fashion\",\"one\",\"fur\",\"blond\",\"adult\",\"dog\"]}"}
+{"level":"info","timestamp":"Thu Jan 25 2018 11:21:50 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 13:01:25 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Thu Jan 25 2018 13:01:25 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Mon Jan 29 2018 14:57:19 GMT+0000 (UTC)","message":"~~~~~~~~~~~~~~~~~~LOGGING STARTS HERE~~~~~~~~~~~~~~~~~~"}
+{"level":"info","timestamp":"Mon Jan 29 2018 14:57:29 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 14:57:29 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Mon Jan 29 2018 14:57:32 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 14:57:32 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:37:28 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:37:28 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:37:38 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:37:38 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:37:44 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:37:44 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:37:44 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:37:44 GMT+0000 (UTC)","message":"getting for collection: eyes"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:37:44 GMT+0000 (UTC)","message":"number of records remaining, 3316"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:37:44 GMT+0000 (UTC)","message":"skipping these many records randomly, 131"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:37:44 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9ddb08f79cbe65f9660\",\"index\":133,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/16465591_1225618470825614_2152612783844229120_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"fashion\",\"glamour\",\"woman\",\"skin\",\"sexy\",\"eye\",\"lips\",\"blond\",\"hair\",\"long\"]}"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:37:44 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:09 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:09 GMT+0000 (UTC)","message":"posting for collection: \"eyes\""}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:09 GMT+0000 (UTC)","message":"doc to be posted, {\"_id\":\"5a69b9ddb08f79cbe65f9660\",\"index\":133,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/16465591_1225618470825614_2152612783844229120_n.jpg\",\"status\":0,\"userdefined_tags\":[\"microblading\"],\"predefined_tags\":[\"fashion\",\"glamour\",\"woman\",\"skin\",\"sexy\",\"eye\",\"lips\",\"blond\",\"hair\",\"long\"]}"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:09 GMT+0000 (UTC)","message":"userdefined_tags, [\"microblading\"]"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:09 GMT+0000 (UTC)","message":"number of records remaining, "}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:09 GMT+0000 (UTC)","message":"skipping these many records randomly, "}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:09 GMT+0000 (UTC)","message":"doc being sent: "}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:09 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:28 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:28 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:30 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:30 GMT+0000 (UTC)","message":"getting for collection: eyes"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:30 GMT+0000 (UTC)","message":"number of records remaining, 3315"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:30 GMT+0000 (UTC)","message":"skipping these many records randomly, 552"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:30 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9ddb08f79cbe65f9806\",\"index\":555,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/18380917_419015491812057_8466724001891221504_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"people\",\"one\",\"woman\",\"adult\",\"portrait\",\"man\",\"girl\",\"sit\",\"actress\",\"two\"]}"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:30 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:30 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:30 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:32 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:32 GMT+0000 (UTC)","message":"getting for collection: tools"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:32 GMT+0000 (UTC)","message":"number of records remaining, 807"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:32 GMT+0000 (UTC)","message":"skipping these many records randomly, 600"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:32 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9d4b08f79cbe65f9509\",\"index\":601,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/17075771_170363173469023_3409109237270315008_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"no person\",\"people\",\"man\",\"monochrome\",\"graphic design\",\"monochromatic\",\"simplicity\",\"elegant\",\"nature\",\"woman\"]}"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:32 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:32 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:32 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:33 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:33 GMT+0000 (UTC)","message":"getting for collection: face"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:33 GMT+0000 (UTC)","message":"number of records remaining, 1003"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:33 GMT+0000 (UTC)","message":"skipping these many records randomly, 317"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:33 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9e2b08f79cbe65fa416\",\"index\":320,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/17334080_1880826408796055_212752888634540032_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"woman\",\"pretty\",\"sexy\",\"fashion\",\"indoors\",\"people\",\"hair\",\"portrait\",\"glamour\",\"nude\"]}"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:33 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:33 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:33 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:34 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:34 GMT+0000 (UTC)","message":"getting for collection: hair"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:34 GMT+0000 (UTC)","message":"number of records remaining, 2445"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:34 GMT+0000 (UTC)","message":"skipping these many records randomly, 694"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:34 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9e9b08f79cbe65fa980\",\"index\":696,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.37.644.644/18380807_1642344212459664_860448662839361536_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"portrait\",\"woman\",\"fashion\",\"wear\",\"people\",\"actress\",\"adult\",\"hairdo\",\"one\",\"model\"]}"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:34 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:34 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:34 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:35 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:35 GMT+0000 (UTC)","message":"getting for collection: lips"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:35 GMT+0000 (UTC)","message":"number of records remaining, 997"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:35 GMT+0000 (UTC)","message":"skipping these many records randomly, 219"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:35 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9eeb08f79cbe65fb139\",\"index\":219,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18012163_413631825659646_7051053582279245824_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"portrait\",\"woman\",\"girl\",\"fashion\",\"model\",\"people\",\"eyeglasses\",\"brunette\",\"adult\",\"beautiful\"]}"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:35 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:35 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:35 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:36 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:36 GMT+0000 (UTC)","message":"getting for collection: eyes"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:36 GMT+0000 (UTC)","message":"number of records remaining, 3315"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:36 GMT+0000 (UTC)","message":"skipping these many records randomly, 797"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:36 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9ddb08f79cbe65f98fb\",\"index\":794,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19764941_129170651010287_3531750147211919360_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"woman\",\"eye\",\"fashion\",\"sexy\",\"portrait\",\"pretty\",\"indoors\",\"girl\",\"relaxation\",\"sleep\"]}"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:36 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:36 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:36 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:37 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:38:37 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:51:41 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 19:51:41 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Mon Jan 29 2018 20:01:05 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 20:01:05 GMT+0000 (UTC)","message":"getting for collection: eyes"}
+{"level":"info","timestamp":"Mon Jan 29 2018 20:01:05 GMT+0000 (UTC)","message":"number of records remaining, 3315"}
+{"level":"info","timestamp":"Mon Jan 29 2018 20:01:05 GMT+0000 (UTC)","message":"skipping these many records randomly, 1458"}
+{"level":"info","timestamp":"Mon Jan 29 2018 20:01:05 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9ddb08f79cbe65f9b91\",\"index\":1462,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/e35/23970175_169610210296251_906309778165202944_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"fashion\",\"woman\",\"beautiful\",\"girl\",\"model\",\"portrait\",\"glamour\",\"hair\",\"sexy\",\"pretty\"]}"}
+{"level":"info","timestamp":"Mon Jan 29 2018 20:01:05 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 20:01:09 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 20:01:09 GMT+0000 (UTC)","message":"getting for collection: tools"}
+{"level":"info","timestamp":"Mon Jan 29 2018 20:01:09 GMT+0000 (UTC)","message":"number of records remaining, 807"}
+{"level":"info","timestamp":"Mon Jan 29 2018 20:01:09 GMT+0000 (UTC)","message":"skipping these many records randomly, 408"}
+{"level":"info","timestamp":"Mon Jan 29 2018 20:01:09 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9d4b08f79cbe65f9449\",\"index\":411,\"image_url\":\"https://scontent.cdninstagram.com/t51.2885-15/e35/21294494_1090980967704646_3926707806379442176_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"people\",\"winter\",\"adult\",\"man\",\"one\",\"woman\",\"model\",\"exercise\",\"portrait\",\"equipment\"]}"}
+{"level":"info","timestamp":"Mon Jan 29 2018 20:01:09 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 20:01:12 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Mon Jan 29 2018 20:01:12 GMT+0000 (UTC)","message":"getting for collection: hair"}
+{"level":"info","timestamp":"Mon Jan 29 2018 20:01:12 GMT+0000 (UTC)","message":"number of records remaining, 2445"}
+{"level":"info","timestamp":"Mon Jan 29 2018 20:01:12 GMT+0000 (UTC)","message":"skipping these many records randomly, 708"}
+{"level":"info","timestamp":"Mon Jan 29 2018 20:01:12 GMT+0000 (UTC)","message":"doc being sent: {\"_id\":\"5a69b9e9b08f79cbe65fa98e\",\"index\":707,\"image_url\":\"https://scontent.cdninstagram.com/vp/3bef5dd0d02666694b2f7b1b44c104f3/5AFCD219/t51.2885-15/sh0.08/e35/p640x640/18879434_1252626044848788_5473435867378876416_n.jpg\",\"status\":0,\"userdefined_tags\":[],\"predefined_tags\":[\"wedding\",\"woman\",\"window\",\"bride\",\"indoors\",\"fashion\",\"dress\",\"veil\",\"girl\",\"bridal\"]}"}
+{"level":"info","timestamp":"Mon Jan 29 2018 20:01:12 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 01:41:28 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 01:41:28 GMT+0000 (UTC)","message":"getting for collection: script"}
+{"level":"info","timestamp":"Tue Jan 30 2018 05:12:41 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 05:12:41 GMT+0000 (UTC)","message":"getting for collection: webdav"}
+{"level":"info","timestamp":"Tue Jan 30 2018 05:12:41 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 05:12:41 GMT+0000 (UTC)","message":"getting for collection: service.cgi"}
+{"level":"info","timestamp":"Tue Jan 30 2018 05:12:41 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 05:12:41 GMT+0000 (UTC)","message":"getting for collection: service.cgi"}
+{"level":"info","timestamp":"Tue Jan 30 2018 05:12:41 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 05:12:41 GMT+0000 (UTC)","message":"getting for collection: service.cgi"}
+{"level":"info","timestamp":"Tue Jan 30 2018 05:29:45 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 05:29:45 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:34:29 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:34:29 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:20 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:20 GMT+0000 (UTC)","message":"getting for collection: eyes"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:20 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:20 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:20 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:20 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:20 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:20 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:23 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:23 GMT+0000 (UTC)","message":"getting for collection: tools"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:23 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:23 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:23 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:23 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:23 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:23 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:25 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:25 GMT+0000 (UTC)","message":"getting for collection: face"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:25 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:25 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:25 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:25 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:25 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:25 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:26 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:26 GMT+0000 (UTC)","message":"getting for collection: hair"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:26 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:26 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:26 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:26 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:26 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:26 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:27 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:27 GMT+0000 (UTC)","message":"getting for collection: lips"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:27 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:27 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:27 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:27 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:27 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:27 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:29 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:29 GMT+0000 (UTC)","message":"getting for collection: nail"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:29 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:29 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:29 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:29 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:29 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:29 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:30 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:30 GMT+0000 (UTC)","message":"getting for collection: skin"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:30 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:30 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:30 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:30 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:30 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:30 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:36 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:36 GMT+0000 (UTC)","message":"getting for collection: skin"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:36 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:36 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:36 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:36 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:36 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:36 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:38 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:38 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:38 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:38 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:40 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:40 GMT+0000 (UTC)","message":"getting for collection: tools"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:40 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:40 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:40 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:40 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:40 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:40 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:41 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:41 GMT+0000 (UTC)","message":"getting for collection: face"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:41 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:41 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:41 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:41 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:41 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:41 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:42 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:42 GMT+0000 (UTC)","message":"getting for collection: hair"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:42 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:42 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:42 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:42 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:42 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:42 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:43 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:43 GMT+0000 (UTC)","message":"getting for collection: lips"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:43 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:43 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:43 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:43 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:43 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:43 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:47 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:47 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:47 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:47 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:48 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:48 GMT+0000 (UTC)","message":"getting for collection: eyes"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:48 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:48 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:48 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:48 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:48 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:48 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:51 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:51 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:57 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:39:57 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:00 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:00 GMT+0000 (UTC)","message":"getting for collection: eyes"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:00 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:00 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:00 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:00 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:00 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:00 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:01 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:01 GMT+0000 (UTC)","message":"getting for collection: tools"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:01 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:01 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:01 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:01 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:01 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:01 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:02 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:02 GMT+0000 (UTC)","message":"getting for collection: face"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:02 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:02 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:02 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:02 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:02 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:02 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)","message":"getting for collection: hair"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)","message":"getting for collection: lips"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:03 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)","message":"getting for collection: nail"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)","message":"getting for collection: eyes"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:04 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:08 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:08 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:09 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 21:40:09 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:54 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:54 GMT+0000 (UTC)","message":"getting for collection: hair"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:54 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:54 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:54 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:54 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:54 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:54 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:55 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:55 GMT+0000 (UTC)","message":"getting for collection: lips"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:55 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:55 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:55 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:55 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:55 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:55 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:57 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:57 GMT+0000 (UTC)","message":"getting for collection: nail"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:57 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:57 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:57 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:57 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:57 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:57 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:58 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:58 GMT+0000 (UTC)","message":"getting for collection: skin"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:58 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:58 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:58 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:58 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:58 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:58 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:59 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:59 GMT+0000 (UTC)","message":"getting for collection: eyes"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:59 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:59 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:59 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:59 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:59 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:27:59 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:28:03 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:28:03 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:28:07 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:28:07 GMT+0000 (UTC)","message":"getting for collection: tools"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:28:07 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:28:07 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:28:07 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:28:07 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:28:07 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:28:07 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:28:12 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 22:28:12 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Tue Jan 30 2018 23:03:46 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 23:03:46 GMT+0000 (UTC)","message":"getting for collection: eyes"}
+{"level":"info","timestamp":"Tue Jan 30 2018 23:03:46 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 23:03:46 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Tue Jan 30 2018 23:03:46 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Tue Jan 30 2018 23:03:46 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 23:03:46 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Tue Jan 30 2018 23:03:46 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 05:45:56 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 05:45:56 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:09:34 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:09:34 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:22 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:22 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:35 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:35 GMT+0000 (UTC)","message":"getting for collection: face"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:35 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:35 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:35 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:35 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:35 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:35 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:39 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:39 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:39 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:39 GMT+0000 (UTC)","message":"getting for collection: eyes"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:39 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:39 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:39 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:39 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:40 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:40 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:40 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:40 GMT+0000 (UTC)","message":"getting for collection: tools"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:40 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:40 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:40 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:40 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:41 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:41 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:41 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:41 GMT+0000 (UTC)","message":"getting for collection: hair"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:41 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:41 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:41 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:41 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:42 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:42 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:42 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:42 GMT+0000 (UTC)","message":"getting for collection: lips"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:42 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:42 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:42 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:42 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:43 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:43 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:43 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:43 GMT+0000 (UTC)","message":"getting for collection: nail"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:43 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:43 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:43 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:43 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:44 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:44 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:44 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:44 GMT+0000 (UTC)","message":"getting for collection: skin"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:44 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:44 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:44 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:34:44 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:35:54 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:35:54 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:35 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:35 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:36 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:36 GMT+0000 (UTC)","message":"getting for collection: eyes"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:36 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:36 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:36 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:36 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:36 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:36 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:40 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:40 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:40 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:40 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:45 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:45 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:45 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:45 GMT+0000 (UTC)","message":"getting for collection: tools"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:45 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:45 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:45 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:45 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)","message":"getting for collection: face"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)","message":"getting for collection: hair"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:46 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:47 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:47 GMT+0000 (UTC)","message":"getting for collection: lips"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:47 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:47 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:47 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:47 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:47 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:37:47 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:52:32 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:52:32 GMT+0000 (UTC)","message":"getting for collection: eyes"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:52:32 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:52:32 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:52:32 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:52:32 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:52:32 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:52:32 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:54:47 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:54:47 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:25 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:25 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:25 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:25 GMT+0000 (UTC)","message":"getting for collection: eyes"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:25 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:25 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:25 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:25 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:26 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:26 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:29 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:29 GMT+0000 (UTC)","message":"getting for collection: tools"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:29 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:29 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:29 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:29 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:29 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:29 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:30 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:30 GMT+0000 (UTC)","message":"getting for collection: face"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:30 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:30 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:30 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:30 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:30 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:30 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)","message":"getting for collection: lips"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)","message":"getting for collection: hair"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:31 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:32 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:32 GMT+0000 (UTC)","message":"getting for collection: eyes"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:32 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:32 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:32 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:32 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:32 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 06:58:32 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:14 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:14 GMT+0000 (UTC)","message":"getting for collection: hair"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:14 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:14 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:14 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:14 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:14 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:14 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)","message":"getting for collection: tools"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)","message":"getting for collection: face"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:55 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:56 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:56 GMT+0000 (UTC)","message":"getting for collection: hair"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:56 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:56 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:56 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:56 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:56 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:56 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:57 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:57 GMT+0000 (UTC)","message":"getting for collection: lips"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:57 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:57 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:57 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:57 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:57 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:57 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:58 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:58 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:58 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:58 GMT+0000 (UTC)","message":"getting for collection: nail"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:58 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:58 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:58 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:01:58 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:02:28 GMT+0000 (UTC)","message":"~~~~~~~~~~~~~~~~~~LOGGING STARTS HERE~~~~~~~~~~~~~~~~~~"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:02:44 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:02:44 GMT+0000 (UTC)","message":"getting for collection: lips"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:02:44 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:02:44 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:02:44 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:02:44 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:02:45 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:02:45 GMT+0000 (UTC)","message":"getting for collection: eyes"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:02:45 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:02:45 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:02:45 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:02:45 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:02:47 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:02:47 GMT+0000 (UTC)","message":"getting for collection: tools"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:02:47 GMT+0000 (UTC)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:02:47 GMT+0000 (UTC)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:02:47 GMT+0000 (UTC)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:02:47 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:02:50 GMT+0000 (UTC)","message":"=========================================================="}
+{"level":"info","timestamp":"Wed Jan 31 2018 07:02:50 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
