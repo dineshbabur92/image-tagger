@@ -2230,3 +2230,50 @@
 {"level":"info","timestamp":"Fri Feb 02 2018 09:30:34 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
 {"level":"info","timestamp":"Fri Feb 02 2018 09:30:54 GMT+0000 (UTC)","message":"=========================================================="}
 {"level":"info","timestamp":"Fri Feb 02 2018 09:30:54 GMT+0000 (UTC)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:03 GMT+0530 (India Standard Time)","message":"~~~~~~~~~~~~~~~~~~LOGGING STARTS HERE~~~~~~~~~~~~~~~~~~"}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:12 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:12 GMT+0530 (India Standard Time)","message":"getting for collection: styles.176e4d821cc3a21887b2.bundle.css"}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:12 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:12 GMT+0530 (India Standard Time)","message":"getting for collection: inline.7baf89d4501bd7dab4cb.bundle.js"}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:12 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:12 GMT+0530 (India Standard Time)","message":"getting for collection: polyfills.f20484b2fa4642e0dca8.bundle.js"}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:12 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:12 GMT+0530 (India Standard Time)","message":"getting for collection: main.08818af91146754da963.bundle.js"}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:12 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:12 GMT+0530 (India Standard Time)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:21 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:21 GMT+0530 (India Standard Time)","message":"getting for collection: styles.176e4d821cc3a21887b2.bundle.css"}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:49 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:49 GMT+0530 (India Standard Time)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:53 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:53 GMT+0530 (India Standard Time)","message":"getting for collection: hair"}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:53 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:53 GMT+0530 (India Standard Time)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:53 GMT+0530 (India Standard Time)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:53 GMT+0530 (India Standard Time)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:53 GMT+0530 (India Standard Time)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:53 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:54 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:54 GMT+0530 (India Standard Time)","message":"getting for collection: nail"}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:54 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:54 GMT+0530 (India Standard Time)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:54 GMT+0530 (India Standard Time)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:54 GMT+0530 (India Standard Time)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:54 GMT+0530 (India Standard Time)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:54 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:56 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:56 GMT+0530 (India Standard Time)","message":"getting for collection: eyes"}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:56 GMT+0530 (India Standard Time)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:56 GMT+0530 (India Standard Time)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:56 GMT+0530 (India Standard Time)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:56 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:56 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:56 GMT+0530 (India Standard Time)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:57 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:57 GMT+0530 (India Standard Time)","message":"getting for collection: tools"}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:57 GMT+0530 (India Standard Time)","message":"=========================================================="}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:57 GMT+0530 (India Standard Time)","message":"getting for collection: favicon.ico"}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:57 GMT+0530 (India Standard Time)","message":"number of records remaining, 0"}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:57 GMT+0530 (India Standard Time)","message":"skipping these many records randomly, 0"}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:57 GMT+0530 (India Standard Time)","message":"doc being sent: null"}
+{"level":"info","timestamp":"Fri Feb 02 2018 16:32:57 GMT+0530 (India Standard Time)","message":"=========================================================="}
